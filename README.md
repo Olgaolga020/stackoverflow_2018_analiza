@@ -2,7 +2,7 @@
 
 Eksploracyjna analiza danych z ankiety **Stack Overflow Developer Survey 2018**. Projekt zaliczeniowy z analizy danych w Pythonie.
 
-**Raport online:** https://github.com/Olgaolga020/stackoverflow_2018_analiza/
+**Raport online:** https://olgaolga020.github.io/stackoverflow_2018_analiza/
 
 ## Zakres
 
