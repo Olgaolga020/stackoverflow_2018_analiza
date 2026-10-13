@@ -275,105 +275,21 @@ body.dark main img { background: #e0e0e0 !important; border-radius: 0; padding: 
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>Respondenci: 98,855 | kolumny: 8 | duplikaty ID: 0
-</pre>
-</div>
-</div>
-<div class="output_area">
-<div class="output_html rendered_html output_subarea output_execute_result"><div>
-<style scoped="">
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">AssertionError</span>                            Traceback (most recent call last)
+<span class="ansi-cyan-fg">Cell</span><span class="ansi-cyan-fg"> </span><span class="ansi-green-fg">In[6]</span><span class="ansi-green-fg">, line 4</span>
+<span class="ansi-green-fg">      1</span> sciezka = Path(<span class="ansi-yellow-fg">"data/survey_results_public.csv"</span>)
+<span class="ansi-green-fg">      2</span> <span class="ansi-bold" style="color: rgb(0,135,0)">if</span> <span class="ansi-bold" style="color: rgb(0,135,0)">not</span> sciezka.exists():
+<span class="ansi-green-fg">      3</span>     sciezka = Path.home() / <span class="ansi-yellow-fg">"Desktop"</span> / <span class="ansi-yellow-fg">"survey_results_public.csv"</span>
+<span class="ansi-green-fg">----&gt; </span><span class="ansi-green-fg">4</span> <span class="ansi-bold" style="color: rgb(0,135,0)">assert</span> sciezka.exists(), <span class="ansi-yellow-fg">"Nie znaleziono pliku z danymi"</span>
+<span class="ansi-green-fg">      5</span> 
+<span class="ansi-green-fg">      6</span> kolumny = ["Respondent", "Country", "Employment", "FormalEducation", "UndergradMajor",
+<span class="ansi-green-fg">      7</span>            <span class="ansi-yellow-fg">"YearsCoding"</span>, <span class="ansi-yellow-fg">"JobSatisfaction"</span>, <span class="ansi-yellow-fg">"ConvertedSalary"</span>, <span class="ansi-yellow-fg">"Age"</span>]
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-<thead>
-<tr style="text-align: right;">
-<th></th>
-<th>ID</th>
-<th>Country</th>
-<th>Employment</th>
-<th>FormalEducation</th>
-<th>UndergradMajor</th>
-<th>YearsCoding</th>
-<th>JobSatisfaction</th>
-<th>ConvertedSalary</th>
-<th>Age</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<th>0</th>
-<td>1</td>
-<td>Kenya</td>
-<td>Employed part-time</td>
-<td>Bachelor’s degree (BA, BS, B.Eng., etc.)</td>
-<td>Mathematics or statistics</td>
-<td>3-5 years</td>
-<td>Extremely satisfied</td>
-<td>NaN</td>
-<td>25 - 34 years old</td>
-</tr>
-<tr>
-<th>1</th>
-<td>3</td>
-<td>United Kingdom</td>
-<td>Employed full-time</td>
-<td>Bachelor’s degree (BA, BS, B.Eng., etc.)</td>
-<td>A natural science (ex. biology, chemistry, physics)</td>
-<td>30 or more years</td>
-<td>Moderately dissatisfied</td>
-<td>70,841.00</td>
-<td>35 - 44 years old</td>
-</tr>
-<tr>
-<th>2</th>
-<td>4</td>
-<td>United States</td>
-<td>Employed full-time</td>
-<td>Associate degree</td>
-<td>Computer science, computer engineering, or software engineering</td>
-<td>24-26 years</td>
-<td>Moderately satisfied</td>
-<td>NaN</td>
-<td>NaN</td>
-</tr>
-<tr>
-<th>3</th>
-<td>5</td>
-<td>United States</td>
-<td>Employed full-time</td>
-<td>Bachelor’s degree (BA, BS, B.Eng., etc.)</td>
-<td>Computer science, computer engineering, or software engineering</td>
-<td>18-20 years</td>
-<td>Neither satisfied nor dissatisfied</td>
-<td>NaN</td>
-<td>35 - 44 years old</td>
-</tr>
-<tr>
-<th>4</th>
-<td>7</td>
-<td>South Africa</td>
-<td>Employed full-time</td>
-<td>Some college/university study without earning a degree</td>
-<td>Computer science, computer engineering, or software engineering</td>
-<td>6-8 years</td>
-<td>Slightly satisfied</td>
-<td>21,426.00</td>
-<td>18 - 24 years old</td>
-</tr>
-</tbody>
-</table>
-</div></div>
+<span class="ansi-red-fg">AssertionError</span>: Nie znaleziono pliku z danymi</pre>
+</div>
 </div>
 </div>
 </div>
