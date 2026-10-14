@@ -16,11 +16,11 @@ Postawiono trzy pytania badawcze:
 
 ## Przebieg analizy
 
-**Etap 1. Czyszczenie danych.** Przedziały tekstowe (staż, wiek) zamieniono na liczby, a skalę słowną zadowolenia na stopnie od 1 do 7. Zdiagnozowano braki (`missingno`, testy zależności od zatrudnienia, kraju i stażu) i uznano, że mechanizm najbardziej przypomina MAR. Ustalono dwie reguły poprawności: zarobki w przedziale 1 000–500 000 USD oraz staż niewiększy niż wiek pomniejszony o 5 lat. Odrzucono 2 741 zarobków (5,7% zadeklarowanych) i poprawiono 256 sprzecznych wartości stażu. Obserwacje odstające wyznaczono metodą IQR w obrębie kraju i zachowano w danych. Staż uzupełniono metodą KNN (k = 14, na podstawie wieku), co dotyczyło 153 wartości. Zarobków i zadowolenia nie imputowano, bo są badanymi zmiennymi. Do dalszych analiz przyjęto 43 673 pracujące osoby z wiarygodną pensją.
+**1. Czyszczenie danych.** Przedziały tekstowe (staż, wiek) zamieniono na liczby, a skalę słowną zadowolenia na stopnie od 1 do 7. Zdiagnozowano braki (`missingno`, testy zależności od zatrudnienia, kraju i stażu) i uznano, że mechanizm najbardziej przypomina MAR. Ustalono dwie reguły poprawności: zarobki w przedziale 1 000–500 000 USD oraz staż niewiększy niż wiek pomniejszony o 5 lat. Odrzucono 2 741 zarobków (5,7% zadeklarowanych) i poprawiono 256 sprzecznych wartości stażu. Obserwacje odstające wyznaczono metodą IQR w obrębie kraju i zachowano w danych. Staż uzupełniono metodą KNN (k = 4, na podstawie wieku), co dotyczyło 153 wartości. Zarobków i zadowolenia nie imputowano, bo są badanymi zmiennymi. Do dalszych analiz przyjęto 43 673 pracujące osoby z wiarygodną pensją.
 
-**Etap 2. Wizualizacje.** Rozkład zarobków, mapa median wg kraju, zarobki a staż w czterech krajach, zarobki wg kierunku studiów, zadowolenie wg stażu oraz interaktywny wykres struktury próby (D3.js).
+**2. Wizualizacje.** Rozkład zarobków, mapa median wg kraju, zarobki a staż w czterech krajach, zarobki wg kierunku studiów, zadowolenie wg stażu oraz interaktywny wykres struktury próby (D3.js).
 
-**Etap 3. Analiza.** Korelacje rangowe, regresje liniowe na logarytmie zarobków z odpornymi błędami standardowymi (HC3), test Kruskala-Wallisa z wielkością efektu.
+**3. Analiza.** Korelacje rangowe, regresje liniowe na logarytmie zarobków z odpornymi błędami standardowymi (HC3), test Kruskala-Wallisa z wielkością efektu.
 
 ## Najważniejsze wyniki
 
@@ -64,8 +64,10 @@ Postawiono trzy pytania badawcze:
 3. Otworzyć `projekt_mini.ipynb` i uruchomić wszystkie komórki.
 4. Wygenerować raport poleceniem `python eksport.py` (wynik w `docs/index.html`).
 
-Użyto Pythona 3.14 oraz bibliotek pandas, seaborn, scipy, scikit-learn, statsmodels, missingno i plotly.
+Użyto Pythona 3.14 oraz bibliotek pandas, seaborn, scipy, scikit-learn, statsmodels, missingno i plotly
 
+## Podstawa metodyczna i źródła
+Analizę oparto na materiałach kursu *Analiza i wizualizacja danych w Pythonie* 
 ## Dane
 
 Źródło: Stack Overflow Developer Survey 2018, udostępniony na Kaggle: https://www.kaggle.com/datasets/stackoverflow/stack-overflow-2018-developer-survey. Warunki licencji podano na stronie zbioru. Plik `data/so2018_czyste.csv` powstał w wyniku czyszczenia opisanego w notebooku.
