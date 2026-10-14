@@ -34,7 +34,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 120,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,3.0,45144.0,4.654600037261985,False
 122,Japan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,6.0,32412.0,4.510705830235076,False
 123,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,39.5,6.0,52627.0,4.7212086137835625,False
-124,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,82648.0,4.91723234853695,False
+124,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,82648.0,4.91723234853695,False
 127,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,,4.0,78000.0,4.892094602690481,False
 129,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,4.0,120000.0,5.079181246047625,False
 131,Russian Federation,Some college/university study without earning a degree,Spoza IT,4.0,4.0,,6.0,42456.0,4.627939074621329,False
@@ -125,7 +125,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 372,Russian Federation,Some college/university study without earning a degree,Informatyka,1.0,1.0,21.0,6.0,8496.0,3.929214503737394,False
 373,Portugal,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,3.0,45895.0,4.661765374193252,False
 377,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,60000.0,4.778151250383644,False
-378,Germany,Some college/university study without earning a degree,Informatyka,,4.857142857142856,21.0,3.0,9552.0,3.980094313785294,True
+378,Germany,Some college/university study without earning a degree,Informatyka,,5.499999999999999,21.0,3.0,9552.0,3.980094313785294,True
 379,Mexico,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,1.0,4512.0,3.654369090975286,False
 380,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,38510.0,4.585573518622731,False
 383,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,105000.0,5.021189299069938,False
@@ -161,7 +161,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 458,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,21.0,5.0,32000.0,4.505149978319906,False
 460,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,4.0,3757.0,3.5748411950633847,False
 461,Argentina,"Professional degree (JD, MD, etc.)",Spoza IT,4.0,4.0,29.5,6.0,22884.0,4.35953193909363,False
-462,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,75504.0,4.877969959998874,False
+462,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,75504.0,4.877969959998874,False
 464,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,52404.0,4.719364437968965,False
 466,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,187152.0,5.272194472563573,True
 467,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,7.0,7.0,29.5,7.0,52872.0,4.723225738862373,False
@@ -449,7 +449,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 1211,France,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,16.0,16.0,39.5,6.0,58134.0,4.764430206289635,False
 1213,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,21.0,3.0,34440.0,4.5370631427816175,False
 1215,Bangladesh,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,14436.0,4.15944687338747,False
-1216,Russian Federation,"Professional degree (JD, MD, etc.)",Informatyka,,2.7142857142857135,18.0,6.0,21228.0,4.326909078957348,False
+1216,Russian Federation,"Professional degree (JD, MD, etc.)",Informatyka,,1.7499999999999982,18.0,6.0,21228.0,4.326909078957348,False
 1217,"Iran, Islamic Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,5.0,15984.0,4.203685470881907,False
 1219,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,94000.0,4.973127853599698,False
 1222,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,120000.0,5.079181246047625,False
@@ -701,7 +701,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 1869,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,59.5,7.0,195820.0,5.29185704623146,True
 1871,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,3.0,6108.0,3.7858990283843834,False
 1872,United States,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,28.0,28.0,39.5,6.0,150000.0,5.176091259055681,False
-1873,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,58746.0,4.768978300951122,False
+1873,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,58746.0,4.768978300951122,False
 1874,Bulgaria,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,16.0,16.0,,6.0,14688.0,4.166962663857167,False
 1880,Belgium,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,3.0,26148.0,4.4174384762938805,False
 1882,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,21.0,6.0,7860.0,3.895422546039408,False
@@ -850,7 +850,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 2251,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,21.0,7.0,84500.0,4.926856708949693,False
 2253,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,64380.0,4.8087509723495945,False
 2255,Dominican Republic,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,24000.0,4.380211241711606,False
-2257,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,3.0,155000.0,5.190331698170292,False
+2257,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,3.0,155000.0,5.190331698170292,False
 2258,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,1.0,59034.0,4.77110221095409,False
 2259,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,19.0,19.0,49.5,2.0,37571.0,4.574852754517795,False
 2260,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,64400.0,4.8088858673598125,False
@@ -873,7 +873,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 2303,Brazil,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,21.0,6.0,7116.0,3.8522359394118872,False
 2304,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,39164.0,4.592887041895441,False
 2306,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,85572.0,4.932331682495468,False
-2308,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,8.285714285714286,29.5,7.0,149000.0,5.173186268412274,False
+2308,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,7.75,29.5,7.0,149000.0,5.173186268412274,False
 2309,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,29.5,6.0,65285.0,4.814813408448835,False
 2315,Canada,Some college/university study without earning a degree,Spoza IT,28.0,28.0,39.5,7.0,68443.0,4.835329037322762,False
 2321,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,13.0,13.0,39.5,6.0,76514.0,4.883740906610655,False
@@ -943,7 +943,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 2482,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,23482.0,4.370735083715832,False
 2487,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,10.0,10.0,29.5,6.0,54173.0,4.733782886673956,False
 2491,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,,6.0,10332.0,4.014184397501279,False
-2494,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,4.0,250000.0,5.3979400086720375,False
+2494,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,4.0,250000.0,5.3979400086720375,False
 2498,Ukraine,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,5.0,9600.0,3.9822712330395684,False
 2500,United States,Some college/university study without earning a degree,,4.0,4.0,21.0,6.0,60000.0,4.778151250383644,False
 2501,Japan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,6.0,34788.0,4.541429461402623,False
@@ -1264,7 +1264,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 3328,United States,Associate degree,Informatyka,13.0,13.0,21.0,7.0,130000.0,5.113943352306837,False
 3331,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,6.0,46992.0,4.672023929178725,False
 3332,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,29.5,5.0,145000.0,5.161368002234975,False
-3334,France,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,6.0,73428.0,4.865861699244274,False
+3334,France,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,6.0,73428.0,4.865861699244274,False
 3337,Norway,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,49.5,6.0,84165.0,4.925131527759138,False
 3340,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,1.0,52000.0,4.7160033436347994,False
 3341,Morocco,"Professional degree (JD, MD, etc.)",Pokrewne IT,4.0,4.0,29.5,2.0,49932.0,4.6983789618405725,False
@@ -1292,7 +1292,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 3400,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,2.0,67313.0,4.82809894658723,False
 3403,Ukraine,Some college/university study without earning a degree,Spoza IT,1.0,1.0,29.5,6.0,2928.0,3.4665710723863543,False
 3408,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,72000.0,4.857332496431268,False
-3415,Australia,I never completed any formal education,,,8.285714285714286,29.5,5.0,107964.0,5.033278966526814,False
+3415,Australia,I never completed any formal education,,,7.75,29.5,5.0,107964.0,5.033278966526814,False
 3416,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,39.5,2.0,49311.0,4.692943809874035,False
 3420,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,35292.0,4.547676270554694,False
 3422,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,5.0,34812.0,4.541728974850289,False
@@ -1887,7 +1887,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 4991,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,58746.0,4.768978300951122,False
 4998,Argentina,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,3.0,23500.0,4.371067862271736,False
 5000,Italy,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,,5.0,67313.0,4.82809894658723,False
-5003,Malaysia,Some college/university study without earning a degree,Spoza IT,,4.857142857142856,21.0,5.0,69450.0,4.841672250073635,False
+5003,Malaysia,Some college/university study without earning a degree,Spoza IT,,5.499999999999999,21.0,5.0,69450.0,4.841672250073635,False
 5006,South Africa,Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,6.0,37584.0,4.575002999433531,False
 5008,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,29.5,7.0,95968.0,4.982126444079433,False
 5010,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,30.0,30.0,59.5,6.0,80000.0,4.903089986991944,False
@@ -2342,7 +2342,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 6209,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,18000.0,4.2552725051033065,False
 6210,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,3.0,25704.0,4.410000712543462,False
 6211,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,100000.0,5.0,False
-6212,United States,Primary/elementary school,,,8.285714285714286,29.5,5.0,140000.0,5.146128035678238,False
+6212,United States,Primary/elementary school,,,7.75,29.5,5.0,140000.0,5.146128035678238,False
 6214,Switzerland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,6.0,10632.0,4.026614967934676,True
 6218,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,4.0,4.0,,,10284.0,4.012162067970823,True
 6219,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,2.0,80000.0,4.903089986991944,False
@@ -2705,12 +2705,12 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 7150,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,5.0,59880.0,4.777281791671014,False
 7151,Belarus,Some college/university study without earning a degree,Spoza IT,10.0,10.0,,6.0,43200.0,4.635483746814912,False
 7152,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,19.0,19.0,59.5,6.0,125000.0,5.096910013008056,False
-7154,United Kingdom,Some college/university study without earning a degree,Informatyka,,19.642857142857146,39.5,6.0,68063.0,4.832911087497549,False
+7154,United Kingdom,Some college/university study without earning a degree,Informatyka,,25.25,39.5,6.0,68063.0,4.832911087497549,False
 7156,United States,Some college/university study without earning a degree,Spoza IT,4.0,4.0,21.0,7.0,90000.0,4.954242509439325,False
 7160,United States,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,3.0,25000.0,4.3979400086720375,True
 7161,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,21.0,6.0,43482.0,4.638309511701922,False
 7165,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,5.0,66089.0,4.820129180562099,False
-7166,Estonia,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,66089.0,4.820129180562099,False
+7166,Estonia,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,66089.0,4.820129180562099,False
 7168,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,29.5,1.0,4320.0,3.635483746814912,False
 7174,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,62418.0,4.795309848871458,False
 7177,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,143000.0,5.155336037465061,False
@@ -2769,7 +2769,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 7317,Turkey,Associate degree,Pokrewne IT,7.0,7.0,21.0,1.0,5088.0,3.7065471026403576,False
 7319,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,25.0,25.0,39.5,7.0,120000.0,5.079181246047625,False
 7320,United States,Some college/university study without earning a degree,Informatyka,25.0,25.0,39.5,2.0,175000.0,5.243038048686294,False
-7322,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,4.857142857142856,21.0,6.0,78000.0,4.892094602690481,False
+7322,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,5.499999999999999,21.0,6.0,78000.0,4.892094602690481,False
 7326,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,29940.0,4.476251796007033,False
 7328,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,3.0,90000.0,4.954242509439325,False
 7331,United States,"Professional degree (JD, MD, etc.)",Informatyka,10.0,10.0,39.5,6.0,44000.0,4.643452676486188,False
@@ -2884,7 +2884,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 7648,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,5.0,39029.0,4.591387423942135,False
 7649,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,300000.0,5.477121254719663,False
 7653,Russian Federation,Some college/university study without earning a degree,Spoza IT,1.0,1.0,29.5,7.0,16980.0,4.229937685907934,False
-7655,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,40000.0,4.6020599913279625,False
+7655,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,40000.0,4.6020599913279625,False
 7656,Austria,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,21.0,6.0,48955.0,4.689797054903497,False
 7657,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,29.5,5.0,5256.0,3.7206553565517244,False
 7666,Canada,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,6.0,32200.0,4.507855871695831,False
@@ -3663,7 +3663,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 9588,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,6.0,79404.0,4.89984238069122,False
 9591,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,7.0,32874.0,4.516852550818354,False
 9595,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,3.0,125000.0,5.096910013008056,False
-9596,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,4.0,52627.0,4.7212086137835625,False
+9596,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,4.0,52627.0,4.7212086137835625,False
 9599,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,4.0,2064.0,3.314709692955174,False
 9600,Turkey,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,30.0,30.0,49.5,4.0,52452.0,4.719762052537277,False
 9601,Israel,Some college/university study without earning a degree,Spoza IT,4.0,4.0,21.0,6.0,84264.0,4.9256420711769575,False
@@ -3880,7 +3880,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 10170,Brazil,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,5.0,56148.0,4.749334291239805,False
 10171,United States,Associate degree,,4.0,4.0,29.5,7.0,80000.0,4.903089986991944,False
 10174,Australia,Some college/university study without earning a degree,,4.0,4.0,29.5,2.0,75975.0,4.88067070875198,False
-10184,Japan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,1.0,22692.0,4.3558727748926644,False
+10184,Japan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,1.0,22692.0,4.3558727748926644,False
 10185,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,50400.0,4.702430536445525,False
 10188,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,90000.0,4.954242509439325,False
 10191,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,,6.0,7827.0,3.893595333819883,False
@@ -3950,7 +3950,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 10333,El Salvador,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,3.0,9432.0,3.9746037920870325,False
 10336,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,47000.0,4.672097857935717,False
 10337,United States,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,3.0,37000.0,4.568201724066995,False
-10339,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,5.0,200000.0,5.301029995663981,False
+10339,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,5.0,200000.0,5.301029995663981,False
 10340,New Zealand,Some college/university study without earning a degree,Spoza IT,4.0,4.0,21.0,2.0,28503.0,4.4548905728112365,False
 10341,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,5.0,11688.0,4.06774020292624,False
 10342,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,7.0,97910.0,4.9908270505674786,False
@@ -4474,7 +4474,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 11621,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,100000.0,5.0,False
 11625,Switzerland,,,4.0,4.0,21.0,3.0,62562.0,4.796310623924554,False
 11626,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,7.0,145000.0,5.161368002234975,False
-11629,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,7.0,149712.0,5.175256612132731,True
+11629,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,7.0,149712.0,5.175256612132731,True
 11630,Bangladesh,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,3.0,6492.0,3.8123785111541943,False
 11633,"Iran, Islamic Republic of...","Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,13.0,13.0,29.5,5.0,26640.0,4.425534220498263,False
 11640,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,7.0,106000.0,5.02530586526477,False
@@ -4492,7 +4492,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 11668,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,78000.0,4.892094602690481,False
 11672,Brazil,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,,3.0,16848.0,4.2265483538414115,False
 11674,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,7.0,7.0,39.5,7.0,102000.0,5.008600171761918,False
-11675,Spain,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,29373.0,4.467948305287141,False
+11675,Spain,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,29373.0,4.467948305287141,False
 11683,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,7.0,101400.0,5.006037954997317,False
 11684,Canada,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,13.0,13.0,29.5,7.0,72469.0,4.8601522685284575,False
 11686,Austria,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,6.0,42588.0,4.629287245395218,False
@@ -4864,7 +4864,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 12570,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,2.0,108000.0,5.033423755486949,False
 12571,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,10.0,10.0,29.5,3.0,44064.0,4.64408391857683,False
 12572,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,2.0,31200.0,4.494154594018442,False
-12576,Argentina,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,27972.0,4.446723519568201,False
+12576,Argentina,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,27972.0,4.446723519568201,False
 12581,Hungary,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,1.0,15720.0,4.196452541703389,False
 12582,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,5.0,44060.0,4.644044492814749,False
 12584,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,6.0,80000.0,4.903089986991944,False
@@ -5327,7 +5327,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 13758,Singapore,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,21.0,3.0,27252.0,4.43539838026736,False
 13760,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,3.0,6768.0,3.8304603500309673,False
 13766,South Africa,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,7.0,8241.0,3.9159799141402245,False
-13767,Germany,Some college/university study without earning a degree,Spoza IT,,8.285714285714286,29.5,7.0,14688.0,4.166962663857167,True
+13767,Germany,Some college/university study without earning a degree,Spoza IT,,7.75,29.5,7.0,14688.0,4.166962663857167,True
 13772,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,2.0,94800.0,4.976808337338066,False
 13782,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,39.5,4.0,123000.0,5.089905111439398,False
 13784,Austria,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,7.0,29376.0,4.4679926595211485,False
@@ -5890,7 +5890,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 15233,India,,,7.0,7.0,29.5,4.0,7827.0,3.893595333819883,False
 15234,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,3.0,58000.0,4.763427993562937,False
 15236,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,39.5,6.0,74928.0,4.874644140438004,False
-15238,Malaysia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,8.285714285714286,29.5,5.0,36336.0,4.56033711687566,False
+15238,Malaysia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,7.75,29.5,5.0,36336.0,4.56033711687566,False
 15244,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,21.0,3.0,6262.0,3.7967130632808965,False
 15245,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,2256.0,3.3533390953113047,False
 15247,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,38916.0,4.590128194720598,False
@@ -7125,7 +7125,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 18498,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,2.0,77000.0,4.886490725172482,False
 18502,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,24324.0,4.386034994740633,False
 18507,Israel,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,39.5,3.0,129900.0,5.113609151073028,False
-18509,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,3.0,58746.0,4.768978300951122,False
+18509,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,3.0,58746.0,4.768978300951122,False
 18512,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,7.0,120000.0,5.079181246047625,False
 18513,United States,Some college/university study without earning a degree,Informatyka,22.0,22.0,39.5,7.0,190000.0,5.278753600952829,False
 18516,United States,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,29.5,6.0,75000.0,4.8750612633917,False
@@ -7258,7 +7258,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 18832,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,19.0,19.0,39.5,7.0,80000.0,4.903089986991944,False
 18835,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,21.0,7.0,102000.0,5.008600171761918,False
 18836,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,11000.0,4.041392685158225,True
-18837,United States,Associate degree,Pokrewne IT,,8.285714285714286,29.5,6.0,100000.0,5.0,False
+18837,United States,Associate degree,Pokrewne IT,,7.75,29.5,6.0,100000.0,5.0,False
 18839,Netherlands,,,4.0,4.0,21.0,7.0,387720.0,5.588518204065269,True
 18840,Australia,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,10.0,10.0,29.5,6.0,63979.0,4.8060374477225185,False
 18841,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,7.0,53851.0,4.731193772452004,False
@@ -7293,7 +7293,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 18908,Finland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,6.0,66089.0,4.820129180562099,False
 18911,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,1.0,1.0,21.0,3.0,39000.0,4.5910646070264995,False
 18914,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,31300.0,4.495544337546448,False
-18915,"Iran, Islamic Republic of...",I never completed any formal education,,,8.285714285714286,29.5,3.0,39960.0,4.601625479553944,False
+18915,"Iran, Islamic Republic of...",I never completed any formal education,,,7.75,29.5,3.0,39960.0,4.601625479553944,False
 18924,Netherlands,Some college/university study without earning a degree,Informatyka,4.0,4.0,39.5,5.0,44060.0,4.644044492814749,False
 18928,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,2.0,65000.0,4.812913356642856,False
 18930,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,25.0,25.0,49.5,5.0,41671.0,4.61983392256601,False
@@ -7995,7 +7995,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 20682,Germany,Some college/university study without earning a degree,Informatyka,10.0,10.0,39.5,6.0,469968.0,5.672068287943066,True
 20684,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,10.0,10.0,29.5,4.0,55075.0,4.740954505822805,False
 20687,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,64417.0,4.809000495184327,False
-20689,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,34752.0,4.540979803572734,False
+20689,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,34752.0,4.540979803572734,False
 20692,Ukraine,Associate degree,Informatyka,7.0,7.0,21.0,5.0,10200.0,4.008600171761918,False
 20696,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,4.0,11268.0,4.051846838313736,False
 20699,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,6.0,80000.0,4.903089986991944,False
@@ -8209,7 +8209,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 21255,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,11652.0,4.066400475955629,False
 21257,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,7.0,6012.0,3.7790189719148706,False
 21258,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,7.0,16000.0,4.204119982655925,True
-21260,Italy,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,4.857142857142856,21.0,3.0,22030.0,4.343014497150768,False
+21260,Italy,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,5.499999999999999,21.0,3.0,22030.0,4.343014497150768,False
 21262,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,39.5,2.0,17640.0,4.246498580795801,False
 21263,New Zealand,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,39.5,3.0,67968.0,4.832304490729338,False
 21265,Brazil,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,10.0,10.0,29.5,6.0,26952.0,4.430590997973064,False
@@ -8997,7 +8997,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 23235,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,4.0,4.0,29.5,2.0,60391.0,4.780972221045412,False
 23239,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,155000.0,5.190331698170292,False
 23243,Colombia,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,29.5,6.0,23616.0,4.373206340142947,False
-23245,United States,Primary/elementary school,,,8.285714285714286,29.5,4.0,110000.0,5.041392685158225,False
+23245,United States,Primary/elementary school,,,7.75,29.5,4.0,110000.0,5.041392685158225,False
 23247,Germany,Some college/university study without earning a degree,Informatyka,16.0,16.0,29.5,2.0,46992.0,4.672023929178725,False
 23250,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,110000.0,5.041392685158225,False
 23253,United States,Some college/university study without earning a degree,Pokrewne IT,10.0,10.0,49.5,7.0,150000.0,5.176091259055681,False
@@ -9303,9 +9303,9 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 24022,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,5.0,64620.0,4.810366953681625,False
 24023,South Africa,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,3.0,31398.0,4.4969019851233085,False
 24032,United States,Some college/university study without earning a degree,Spoza IT,1.0,1.0,39.5,7.0,60000.0,4.778151250383644,False
-24033,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,38820.0,4.589055531052344,False
+24033,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,38820.0,4.589055531052344,False
 24037,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,7.0,48616.0,4.68677922333926,False
-24040,Finland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,7.0,46992.0,4.672023929178725,False
+24040,Finland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,7.0,46992.0,4.672023929178725,False
 24041,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,112000.0,5.049218022670182,False
 24045,Germany,Associate degree,Informatyka,7.0,7.0,29.5,6.0,41124.0,4.614095350477491,False
 24048,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,4.0,69500.0,4.841984804590114,False
@@ -9936,7 +9936,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 25676,Slovenia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,4704.0,3.6724673130680823,True
 25677,China,Primary/elementary school,,28.0,28.0,,2.0,56100.0,4.748962861256161,False
 25678,Marshall Islands,Associate degree,Pokrewne IT,4.0,4.0,,7.0,44064.0,4.64408391857683,False
-25679,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,7.0,170000.0,5.230448921378274,False
+25679,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,7.0,170000.0,5.230448921378274,False
 25680,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,49.5,6.0,104532.0,5.019249259786977,False
 25684,United States,Some college/university study without earning a degree,Spoza IT,13.0,13.0,29.5,4.0,160000.0,5.204119982655925,False
 25685,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,3384.0,3.529430354366986,False
@@ -10468,7 +10468,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 27040,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,21.0,6.0,61673.0,4.790095074610133,False
 27042,Belgium,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,1.0,73433.0,4.865891271049046,False
 27044,Mozambique,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,3.0,33156.0,4.520562130964136,False
-27047,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,3.0,45000.0,4.653212513775344,False
+27047,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,3.0,45000.0,4.653212513775344,False
 27048,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,7.0,58000.0,4.763427993562937,False
 27049,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,12524.0,4.097743058944878,False
 27052,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,24420.0,4.387745659608863,False
@@ -11295,7 +11295,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 29187,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,29.5,6.0,77104.0,4.887076908957133,False
 29188,Lithuania,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,34269.0,4.534901431514244,False
 29189,Italy,Some college/university study without earning a degree,Pokrewne IT,16.0,16.0,39.5,5.0,23496.0,4.370993933514744,False
-29190,Brazil,"Professional degree (JD, MD, etc.)",Informatyka,,8.285714285714286,29.5,2.0,22836.0,4.3586200343346455,False
+29190,Brazil,"Professional degree (JD, MD, etc.)",Informatyka,,7.75,29.5,2.0,22836.0,4.3586200343346455,False
 29191,United States,Some college/university study without earning a degree,Spoza IT,4.0,4.0,29.5,6.0,70000.0,4.845098040014257,False
 29197,Belgium,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,6.0,27900.0,4.445604203273597,False
 29200,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,21.0,6.0,49200.0,4.691965102767361,False
@@ -11461,7 +11461,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 29603,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,19.0,19.0,29.5,6.0,37644.0,4.57569576474537,False
 29605,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,56298.0,4.750492966709392,False
 29606,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,5.0,50000.0,4.698970004336019,False
-29608,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,41124.0,4.614095350477491,False
+29608,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,41124.0,4.614095350477491,False
 29612,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,21.0,7.0,65000.0,4.812913356642856,False
 29620,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,49.5,6.0,41700.0,4.620136054973758,False
 29622,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,89266.0,4.950686074520155,False
@@ -11585,7 +11585,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 29900,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,2.0,46963.0,4.671755831890126,False
 29904,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,4.0,4.0,21.0,6.0,16980.0,4.229937685907934,False
 29906,Viet Nam,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,21144.0,4.325187150123654,False
-29907,United States,Associate degree,Spoza IT,,8.285714285714286,29.5,6.0,200000.0,5.301029995663981,False
+29907,United States,Associate degree,Spoza IT,,7.75,29.5,6.0,200000.0,5.301029995663981,False
 29908,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,39.5,5.0,52783.0,4.722494070355788,False
 29909,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,1.0,1.0,29.5,5.0,61194.0,4.786708842167891,False
 29914,Singapore,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,4.0,454224.0,5.6572700774667135,True
@@ -12787,7 +12787,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 33199,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,4.0,4.0,29.5,5.0,135000.0,5.1303337684950066,False
 33202,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,6.0,160000.0,5.204119982655925,False
 33207,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,,7.0,115000.0,5.060697840353612,False
-33209,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,3.0,47984.0,4.681096448415452,False
+33209,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,3.0,47984.0,4.681096448415452,False
 33210,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,6.0,10620.0,4.02612451674545,False
 33211,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,73433.0,4.865891271049046,False
 33216,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,44460.0,4.647969458362971,False
@@ -13353,7 +13353,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 34583,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,59.5,7.0,134627.0,5.129132168172422,False
 34588,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,39.5,2.0,120000.0,5.079181246047625,False
 34591,Russian Federation,Primary/elementary school,,16.0,16.0,29.5,6.0,16980.0,4.229937685907934,False
-34592,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,7.0,90000.0,4.954242509439325,False
+34592,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,7.0,90000.0,4.954242509439325,False
 34596,United States,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,5.0,45000.0,4.653212513775344,False
 34597,United States,Some college/university study without earning a degree,Spoza IT,22.0,22.0,39.5,6.0,95000.0,4.977723605288848,False
 34600,Hungary,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,5.0,38112.0,4.581061739802683,False
@@ -13399,7 +13399,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 34699,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,7.0,13212.0,4.120968565019377,True
 34704,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,7.0,41671.0,4.61983392256601,False
 34711,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,21.0,5.0,25697.0,4.409882424518243,False
-34712,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,150000.0,5.176091259055681,False
+34712,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,150000.0,5.176091259055681,False
 34715,Russian Federation,Some college/university study without earning a degree,Spoza IT,4.0,4.0,29.5,4.0,20172.0,4.304748959487096,False
 34717,United States,Some college/university study without earning a degree,,19.0,19.0,39.5,3.0,120000.0,5.079181246047625,False
 34718,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,21.0,7.0,36720.0,4.564902672529205,False
@@ -13870,7 +13870,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 35892,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,4.0,4.0,29.5,4.0,85000.0,4.929418925714293,False
 35896,Belgium,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,30108.0,4.478681907362235,False
 35897,United States,Some college/university study without earning a degree,Informatyka,28.0,28.0,49.5,6.0,141725.0,5.151446465663008,False
-35898,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,80000.0,4.903089986991944,False
+35898,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,80000.0,4.903089986991944,False
 35899,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,4680.0,3.670245853074124,False
 35901,Serbia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,12648.0,4.102021856924153,False
 35902,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,66027.0,4.819721565135435,False
@@ -14022,7 +14022,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 36257,Ecuador,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,1.0,21000.0,4.3222192947339195,False
 36267,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,95000.0,4.977723605288848,False
 36269,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,,7.0,100000.0,5.0,False
-36270,United States,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,100000.0,5.0,False
+36270,United States,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,100000.0,5.0,False
 36272,Poland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,10.0,10.0,21.0,6.0,42000.0,4.623249290397901,False
 36274,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,61194.0,4.786708842167891,False
 36275,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,2.0,175000.0,5.243038048686294,False
@@ -14126,7 +14126,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 36544,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,6.0,6262.0,3.7967130632808965,False
 36545,Australia,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,13.0,13.0,,6.0,71976.0,4.857187707471133,False
 36549,Ghana,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,5.0,3420.0,3.534026106056135,False
-36554,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,300000.0,5.477121254719663,False
+36554,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,300000.0,5.477121254719663,False
 36555,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,82183.0,4.914781990657481,False
 36558,United Kingdom,Some college/university study without earning a degree,Informatyka,16.0,16.0,29.5,5.0,69452.0,4.8416847565741,False
 36559,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,,6.0,72469.0,4.8601522685284575,False
@@ -14368,10 +14368,10 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 37201,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,2.0,47000.0,4.672097857935717,False
 37202,"Iran, Islamic Republic of...",Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,3.0,8328.0,3.92054071650248,False
 37203,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,21.0,6.0,23496.0,4.370993933514744,False
-37204,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,3.0,140000.0,5.146128035678238,False
+37204,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,3.0,140000.0,5.146128035678238,False
 37205,New Zealand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,56000.0,4.748188027006201,False
 37207,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,3.0,74080.0,4.869700973673878,False
-37208,Philippines,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,4.857142857142856,21.0,5.0,2364.0,3.3736474722092176,False
+37208,Philippines,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,5.499999999999999,21.0,5.0,2364.0,3.3736474722092176,False
 37213,United States,Associate degree,Spoza IT,10.0,10.0,29.5,6.0,100000.0,5.0,False
 37216,New Zealand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,6.0,51159.0,4.708922046777562,False
 37219,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,58781.0,4.769236970147409,False
@@ -15063,7 +15063,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 39044,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,2.0,80000.0,4.903089986991944,False
 39045,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,7.0,7.0,39.5,5.0,105000.0,5.021189299069938,False
 39047,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,7.0,105324.0,5.0225273444042156,False
-39048,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,33588.0,4.526184144513787,False
+39048,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,33588.0,4.526184144513787,False
 39049,United Kingdom,Associate degree,Spoza IT,16.0,16.0,39.5,6.0,159740.0,5.203413680096452,False
 39057,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,19.0,19.0,39.5,3.0,64230.0,4.807737922014101,False
 39058,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,19.0,19.0,39.5,7.0,97233.0,4.9878136855600195,False
@@ -17116,7 +17116,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 44375,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,4.0,3816.0,3.5816083660320577,True
 44380,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,100000.0,5.0,False
 44383,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,46702.0,4.669335479503264,False
-44386,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,64866.0,4.812017117731544,False
+44386,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,64866.0,4.812017117731544,False
 44387,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,53004.0,4.724308645306016,False
 44388,Israel,Some college/university study without earning a degree,Informatyka,19.0,19.0,39.5,5.0,36000.0,4.556302500767287,False
 44392,France,Some college/university study without earning a degree,Spoza IT,16.0,16.0,39.5,6.0,48955.0,4.689797054903497,False
@@ -18093,7 +18093,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 46869,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,63000.0,4.799340549453582,False
 46870,United States,Some college/university study without earning a degree,Informatyka,19.0,19.0,39.5,6.0,125000.0,5.096910013008056,False
 46871,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,88899.0,4.948896875740466,False
-46872,Canada,Some college/university study without earning a degree,,,8.285714285714286,29.5,7.0,57975.0,4.763240757310025,False
+46872,Canada,Some college/university study without earning a degree,,,7.75,29.5,7.0,57975.0,4.763240757310025,False
 46873,Turkey,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,29.5,5.0,7632.0,3.8826383616960385,False
 46874,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,79552.0,4.900651102625532,False
 46882,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,58869.0,4.7698866585712905,False
@@ -18220,7 +18220,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47188,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,5.0,48313.0,4.684064005878024,False
 47190,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,22.0,22.0,39.5,7.0,140000.0,5.146128035678238,False
 47191,South Africa,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,29.5,7.0,26700.0,4.426511261364575,False
-47193,Italy,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,45528.0,4.658278572600269,False
+47193,Italy,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,45528.0,4.658278572600269,False
 47194,Argentina,"Professional degree (JD, MD, etc.)",Informatyka,10.0,10.0,29.5,6.0,22248.0,4.347290975856103,False
 47195,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,4.0,95000.0,4.977723605288848,False
 47197,"Iran, Islamic Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,,5.0,1668.0,3.22219604630172,False
@@ -18265,7 +18265,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47282,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,22.0,22.0,49.5,5.0,55812.0,4.7467275855591415,False
 47283,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,22.0,22.0,49.5,3.0,26064.0,4.416041066964434,False
 47284,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,7.0,80000.0,4.903089986991944,False
-47293,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,26.57142857142857,49.5,6.0,150000.0,5.176091259055681,False
+47293,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,28.75,49.5,6.0,150000.0,5.176091259055681,False
 47297,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,145000.0,5.161368002234975,False
 47298,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,10.0,10.0,29.5,6.0,43280.0,4.636287252098513,False
 47300,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,29.5,3.0,72469.0,4.8601522685284575,False
@@ -18337,7 +18337,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47486,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,7.0,61211.0,4.7868294745969555,False
 47489,Mexico,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,5.0,11604.0,4.064607720130627,False
 47493,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,,7.0,98000.0,4.991226075692495,False
-47494,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,2.0,48955.0,4.689797054903497,False
+47494,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,2.0,48955.0,4.689797054903497,False
 47497,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,8832.0,3.9460590603851236,False
 47503,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,29.5,2.0,152794.0,5.184106300456601,False
 47504,Brazil,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,29.5,4.0,13476.0,4.1295610023090825,False
@@ -18348,7 +18348,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47512,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,29.5,3.0,64451.0,4.8092296601085485,False
 47514,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,24000.0,4.380211241711606,True
 47516,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,105324.0,5.0225273444042156,False
-47517,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,62507.0,4.795928655602356,False
+47517,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,62507.0,4.795928655602356,False
 47520,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,16.0,16.0,39.5,6.0,115000.0,5.060697840353612,False
 47522,South Africa,,,10.0,10.0,,7.0,35604.0,4.551498792364467,False
 47524,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,36716.0,4.564855361185195,False
@@ -18358,7 +18358,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47537,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,7.0,170000.0,5.230448921378274,False
 47538,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,1.0,84264.0,4.9256420711769575,False
 47540,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,,7.0,74657.0,4.873070534349692,False
-47542,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,91000.0,4.959041392321094,False
+47542,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,91000.0,4.959041392321094,False
 47543,Sweden,Associate degree,Spoza IT,10.0,10.0,29.5,5.0,68868.0,4.8380174707945836,False
 47544,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,5.0,55000.0,4.740362689494244,False
 47546,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,2.0,32209.0,4.50797724139145,False
@@ -19195,7 +19195,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 49706,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,2.0,64000.0,4.8061799739838875,False
 49709,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,21.0,6.0,63000.0,4.799340549453582,False
 49711,Argentina,Some college/university study without earning a degree,Informatyka,16.0,16.0,39.5,3.0,26064.0,4.416041066964434,False
-49719,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,5.0,130500.0,5.1156105116743,False
+49719,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,5.0,130500.0,5.1156105116743,False
 49720,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,39.5,6.0,92000.0,4.963787827345556,False
 49722,United States,Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,6.0,80000.0,4.903089986991944,False
 49723,Italy,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,7.0,61194.0,4.786708842167891,False
@@ -19380,7 +19380,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 50210,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,55562.0,4.744777870134888,False
 50211,Bosnia and Herzegovina,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,6.0,69024.0,4.839000123422451,False
 50214,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,130000.0,5.113943352306837,False
-50218,"Iran, Islamic Republic of...","Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,10656.0,4.027594211826226,False
+50218,"Iran, Islamic Republic of...","Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,10656.0,4.027594211826226,False
 50222,United Kingdom,Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,6.0,483384.0,5.684292271171527,True
 50223,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,6.0,40000.0,4.6020599913279625,False
 50224,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,22.0,22.0,29.5,5.0,64417.0,4.809000495184327,False
@@ -19503,7 +19503,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 50535,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,6.0,45085.0,4.654032074011051,False
 50543,Italy,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,10.0,10.0,29.5,5.0,48955.0,4.689797054903497,False
 50544,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,6.0,75000.0,4.8750612633917,False
-50548,South Africa,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,3.0,85044.0,4.929643678809142,False
+50548,South Africa,Some college/university study without earning a degree,Informatyka,,7.75,29.5,3.0,85044.0,4.929643678809142,False
 50549,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,29793.0,4.474114236610368,False
 50551,Brazil,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,10.0,10.0,49.5,7.0,29940.0,4.476251796007033,False
 50554,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,6.0,47904.0,4.680371778662958,False
@@ -19746,7 +19746,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 51132,Lebanon,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,1.0,12000.0,4.079181246047625,False
 51133,Thailand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,13164.0,4.119387873622336,False
 51136,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,22.0,22.0,39.5,6.0,190000.0,5.278753600952829,False
-51138,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,210000.0,5.3222192947339195,False
+51138,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,210000.0,5.3222192947339195,False
 51144,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,,3.0,90000.0,4.954242509439325,False
 51145,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,3.0,14688.0,4.166962663857167,True
 51146,Portugal,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,29.5,5.0,11748.0,4.069963937850763,False
@@ -20002,7 +20002,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 51798,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,3.0,75000.0,4.8750612633917,False
 51801,United States,Some college/university study without earning a degree,Informatyka,19.0,19.0,29.5,4.0,112000.0,5.049218022670182,False
 51805,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,33336.0,4.522913487449221,False
-51808,Hong Kong (S.A.R.),"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,5.0,60084.0,4.778758837446534,False
+51808,Hong Kong (S.A.R.),"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,5.0,60084.0,4.778758837446534,False
 51810,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,39.5,7.0,112730.0,5.052039507001472,False
 51812,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,22236.0,4.347056665366522,False
 51814,Spain,"Professional degree (JD, MD, etc.)",Informatyka,4.0,4.0,29.5,5.0,176244.0,5.246114340918779,True
@@ -20436,7 +20436,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 52888,Canada,Some college/university study without earning a degree,,4.0,4.0,21.0,7.0,34632.0,4.5394775728051,False
 52890,Singapore,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,7.0,59052.0,4.771234611081706,False
 52892,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,33048.0,4.51914518196853,False
-52894,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,6.0,110000.0,5.041392685158225,False
+52894,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,6.0,110000.0,5.041392685158225,False
 52895,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,39.5,3.0,14856.0,4.171901890731724,False
 52896,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,49.5,3.0,91791.0,4.962800101223572,False
 52907,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,79743.0,4.901692570164319,False
@@ -20554,7 +20554,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 53160,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,39.5,6.0,104030.0,5.017158598487815,False
 53163,Bangladesh,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,18048.0,4.2564290823032485,False
 53168,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,29.5,6.0,40261.0,4.604884557663624,False
-53170,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,75000.0,4.8750612633917,False
+53170,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,75000.0,4.8750612633917,False
 53176,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,6.0,87971.0,4.944339528790306,False
 53178,United Kingdom,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,13.0,13.0,29.5,2.0,48616.0,4.68677922333926,False
 53179,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,7.0,400044.0,5.6021077610936825,True
@@ -20774,7 +20774,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 53714,Switzerland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,,4.0,60000.0,4.778151250383644,False
 53716,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,10.0,10.0,29.5,6.0,29376.0,4.4679926595211485,False
 53719,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,21.0,1.0,75000.0,4.8750612633917,False
-53724,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,3.0,68063.0,4.832911087497549,False
+53724,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,3.0,68063.0,4.832911087497549,False
 53725,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,7.0,11232.0,4.05045709478573,False
 53726,Spain,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,46507.0,4.667518325633491,False
 53731,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,22.0,22.0,39.5,6.0,80000.0,4.903089986991944,False
@@ -21414,7 +21414,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 55324,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,100000.0,5.0,False
 55325,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,29.5,6.0,62000.0,4.7923916894982534,False
 55328,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,22.0,22.0,39.5,3.0,180000.0,5.2552725051033065,False
-55334,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,3.0,87971.0,4.944339528790306,False
+55334,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,3.0,87971.0,4.944339528790306,False
 55341,France,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,19.0,19.0,39.5,2.0,55075.0,4.740954505822805,False
 55343,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,3.0,35222.0,4.546814012741506,False
 55344,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,85500.0,4.931966114728173,False
@@ -21594,7 +21594,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 55802,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,29.5,7.0,71000.0,4.8512583487190755,False
 55803,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,1.0,1.0,29.5,5.0,74000.0,4.869231719730976,False
 55806,Spain,Some college/university study without earning a degree,Spoza IT,7.0,7.0,29.5,5.0,6612.0,3.82033284489941,True
-55807,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,145000.0,5.161368002234975,False
+55807,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,145000.0,5.161368002234975,False
 55809,Japan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,65728.0,4.817750417581165,False
 55811,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,7.0,12348.0,4.091596620810058,False
 55812,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,3.0,52783.0,4.722494070355788,False
@@ -22161,7 +22161,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 57248,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,6.0,59988.0,4.778064382800215,False
 57252,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,143952.0,5.158217703135114,False
 57253,United Kingdom,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,21.0,3.0,33337.0,4.522926515046058,False
-57257,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,52932.0,4.723718303826032,False
+57257,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,52932.0,4.723718303826032,False
 57260,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,41400.0,4.617000341120899,False
 57261,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,19.0,19.0,39.5,3.0,98500.0,4.993436230497612,False
 57262,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,49.5,6.0,93000.0,4.968482948553935,False
@@ -22275,7 +22275,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 57518,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,120000.0,5.079181246047625,False
 57523,Mauritius,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,32820.0,4.516138576717075,False
 57525,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,51983.0,4.715861339533011,False
-57526,United States,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,7.0,59115.0,4.7716976939212845,False
+57526,United States,Some college/university study without earning a degree,Informatyka,,7.75,29.5,7.0,59115.0,4.7716976939212845,False
 57527,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,4.0,4.0,29.5,6.0,55075.0,4.740954505822805,False
 57528,Uruguay,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,69600.0,4.842609239610562,False
 57530,Turkey,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,,2.0,222528.0,5.347384664667145,True
@@ -22409,7 +22409,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 57847,Germany,I never completed any formal education,,19.0,19.0,29.5,1.0,79308.0,4.899316997918055,False
 57850,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,7.0,159104.0,5.201681098289513,False
 57852,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,21.0,5.0,24408.0,4.387532194634351,False
-57853,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,6.0,3757.0,3.5748411950633847,False
+57853,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,6.0,3757.0,3.5748411950633847,False
 57854,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,22.0,22.0,39.5,5.0,100000.0,5.0,False
 57856,Bangladesh,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,93840.0,4.972387999107473,False
 57857,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,42348.0,4.626832904407594,False
@@ -22705,7 +22705,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 58632,Bangladesh,Some college/university study without earning a degree,Informatyka,10.0,10.0,29.5,3.0,13716.0,4.137227476442907,False
 58633,Ireland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,25.0,25.0,49.5,4.0,72209.0,4.858591330627028,False
 58637,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,25.0,25.0,39.5,6.0,140000.0,5.146128035678238,False
-58638,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,2.0,133250.0,5.12466721769861,False
+58638,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,2.0,133250.0,5.12466721769861,False
 58642,Finland,Some college/university study without earning a degree,Spoza IT,30.0,30.0,49.5,6.0,76368.0,4.882911417022169,False
 58644,Italy,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,25.0,25.0,49.5,6.0,69761.0,4.843612697431523,False
 58645,Turkey,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,16.0,16.0,39.5,6.0,28608.0,4.456487497115823,False
@@ -23025,7 +23025,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 59454,France,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,13.0,13.0,29.5,2.0,55075.0,4.740954505822805,False
 59455,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,7201.0,3.8573928109209015,False
 59456,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,4.0,4.0,21.0,5.0,46507.0,4.667518325633491,False
-59457,United Kingdom,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,27225.0,4.4349678884278125,False
+59457,United Kingdom,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,27225.0,4.4349678884278125,False
 59460,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,25.0,25.0,39.5,6.0,180000.0,5.2552725051033065,False
 59461,Pakistan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,39.5,5.0,12792.0,4.106938450738178,False
 59462,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,6.0,138000.0,5.139879086401237,False
@@ -23660,7 +23660,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 61086,Canada,Associate degree,Informatyka,19.0,19.0,39.5,1.0,80521.0,4.905909159805603,False
 61088,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,93760.0,4.972017598674015,False
 61093,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,,6.0,37940.0,4.579097326552644,False
-61098,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,80776.0,4.907282343251658,False
+61098,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,80776.0,4.907282343251658,False
 61101,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,7.0,85000.0,4.929418925714293,False
 61106,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,,6.0,220000.0,5.342422680822207,False
 61107,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,25.0,25.0,39.5,6.0,180000.0,5.2552725051033065,False
@@ -24035,7 +24035,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 62108,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,33528.0,4.525407647825788,False
 62109,Georgia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,29220.0,4.465680211598278,False
 62121,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,1.0,95642.0,4.980648649207456,False
-62127,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,8.285714285714286,29.5,2.0,66430.0,4.82236425244155,False
+62127,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,7.75,29.5,2.0,66430.0,4.82236425244155,False
 62131,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,5.0,118000.0,5.071882007306125,False
 62136,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,19.0,19.0,39.5,7.0,68537.0,4.8359250905817355,False
 62137,Russian Federation,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,7.0,42456.0,4.627939074621329,False
@@ -24526,7 +24526,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 63371,Estonia,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,29376.0,4.4679926595211485,False
 63372,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,7.0,57000.0,4.7558748556724915,False
 63374,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,115000.0,5.060697840353612,False
-63378,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,2.0,24696.0,4.392626616474039,False
+63378,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,2.0,24696.0,4.392626616474039,False
 63386,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,29.5,5.0,43416.0,4.63764980857142,False
 63388,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,29580.0,4.470998169660874,False
 63396,Mexico,,,4.0,4.0,21.0,6.0,33800.0,4.528916700277655,False
@@ -24597,7 +24597,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 63576,Serbia,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,,6.0,5880.0,3.7693773260761385,False
 63581,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,29.5,7.0,140000.0,5.146128035678238,False
 63585,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,22.0,22.0,49.5,6.0,112000.0,5.049218022670182,False
-63587,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,80564.0,4.906141020787884,False
+63587,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,80564.0,4.906141020787884,False
 63599,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,49.5,2.0,175000.0,5.243038048686294,False
 63600,Sweden,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,19.0,19.0,29.5,6.0,44914.0,4.652381734656783,False
 63602,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,2.0,70350.0,4.847264101770764,False
@@ -24670,7 +24670,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 63815,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,,2.0,63979.0,4.8060374477225185,False
 63816,Czech Republic,"Professional degree (JD, MD, etc.)",Informatyka,16.0,16.0,29.5,7.0,35244.0,4.547085192570425,False
 63817,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,19.0,19.0,29.5,2.0,150000.0,5.176091259055681,False
-63819,Lithuania,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,134627.0,5.129132168172422,False
+63819,Lithuania,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,134627.0,5.129132168172422,False
 63820,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,29.5,2.0,14088.0,4.14884934295922,False
 63821,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,29.5,2.0,88119.0,4.945069560006804,False
 63822,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,34440.0,4.5370631427816175,False
@@ -24763,7 +24763,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 64051,Singapore,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,66317.0,4.821624871690065,False
 64053,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,2.0,130000.0,5.113943352306837,False
 64055,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,6.0,71500.0,4.854306041801081,False
-64057,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,7.0,104178.0,5.0177760156297815,False
+64057,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,7.0,104178.0,5.0177760156297815,False
 64058,United States,Some college/university study without earning a degree,Informatyka,30.0,30.0,39.5,6.0,130000.0,5.113943352306837,False
 64059,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,7.0,1320.0,3.12057393120585,False
 64060,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,3.0,125000.0,5.096910013008056,False
@@ -24828,7 +24828,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 64192,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,2.0,44064.0,4.64408391857683,False
 64193,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,2.0,55562.0,4.744777870134888,False
 64196,Morocco,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,11400.0,4.056904851336473,False
-64200,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,214301.0,5.331024197609578,True
+64200,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,214301.0,5.331024197609578,True
 64204,El Salvador,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,26400.0,4.421603926869831,False
 64205,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,7091.0,3.8507074853745373,False
 64210,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,21.0,6.0,20172.0,4.304748959487096,False
@@ -25124,7 +25124,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 64973,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,21.0,6.0,17220.0,4.236033147117636,False
 64977,Brazil,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,4.0,4.0,39.5,4.0,17964.0,4.254403046390677,False
 64979,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,2.0,11232.0,4.05045709478573,False
-64980,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,7.0,66378.0,4.822024162775068,False
+64980,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,7.0,66378.0,4.822024162775068,False
 64986,Ireland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,25.0,25.0,49.5,3.0,97910.0,4.9908270505674786,False
 64987,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,10.0,10.0,21.0,6.0,13212.0,4.120968565019377,True
 64992,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,1.0,1.0,29.5,1.0,16146.0,4.208064948147398,True
@@ -25161,7 +25161,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 65072,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,29.5,6.0,140000.0,5.146128035678238,False
 65073,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,1.0,76000.0,4.880813592280791,False
 65075,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,49.5,4.0,118344.0,5.073146244242744,False
-65077,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,8.285714285714286,29.5,6.0,140000.0,5.146128035678238,False
+65077,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,7.75,29.5,6.0,140000.0,5.146128035678238,False
 65078,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,30.0,30.0,59.5,6.0,80521.0,4.905909159805603,False
 65079,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,21060.0,4.323458366849468,True
 65082,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,1.0,44064.0,4.64408391857683,False
@@ -25306,7 +25306,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 65437,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,21.0,6.0,1503.0,3.176958980586908,False
 65439,Italy,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,4.0,33045.0,4.519105756206449,False
 65441,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,,2.0,61194.0,4.786708842167891,False
-65443,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,6.0,106500.0,5.027349607774757,False
+65443,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,6.0,106500.0,5.027349607774757,False
 65446,Germany,Associate degree,Informatyka,4.0,4.0,21.0,6.0,39164.0,4.592887041895441,False
 65447,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,73500.0,4.866287339084195,False
 65450,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,29376.0,4.4679926595211485,False
@@ -25393,7 +25393,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 65633,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,29.5,7.0,40428.0,4.606682257028745,False
 65634,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,3.0,4692.0,3.671358003443492,False
 65636,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,7.0,6575.0,3.8178957571617955,False
-65639,Slovenia,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,32316.0,4.509417599459136,False
+65639,Slovenia,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,32316.0,4.509417599459136,False
 65644,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,60000.0,4.778151250383644,False
 65645,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,6.0,42836.0,4.631808909894799,False
 65647,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,1.0,28992.0,4.462278175996719,False
@@ -25780,11 +25780,11 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 66664,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,4.0,4.0,21.0,2.0,38893.0,4.589871443615334,False
 66665,Switzerland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,10.0,10.0,29.5,6.0,67572.0,4.829766773388633,False
 66667,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,49.5,5.0,124000.0,5.093421685162235,False
-66672,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,9600.0,3.9822712330395684,False
+66672,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,9600.0,3.9822712330395684,False
 66673,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,39.5,5.0,117000.0,5.068185861746161,False
 66676,United Kingdom,Associate degree,Informatyka,7.0,7.0,21.0,4.0,48616.0,4.68677922333926,False
 66678,France,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,10.0,10.0,29.5,3.0,27900.0,4.445604203273597,False
-66681,Jordan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,236952.0,5.374660378725642,True
+66681,Jordan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,236952.0,5.374660378725642,True
 66685,South Africa,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,21.0,7.0,14832.0,4.171199716800422,False
 66689,Indonesia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,4.0,2688.0,3.429429264381788,False
 66690,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,110000.0,5.041392685158225,False
@@ -26124,7 +26124,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 67543,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,5.0,15900.0,4.201397124320452,False
 67551,Australia,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,3.0,34389.0,4.536419547127734,False
 67554,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,61992.0,4.792335647884923,False
-67555,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,4.857142857142856,21.0,5.0,67178.0,4.8272270700341755,False
+67555,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,5.499999999999999,21.0,5.0,67178.0,4.8272270700341755,False
 67562,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,54000.0,4.732393759822968,False
 67563,United Kingdom,Some college/university study without earning a degree,Informatyka,10.0,10.0,29.5,7.0,31948.0,4.504443675760434,False
 67565,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,7.0,6768.0,3.8304603500309673,False
@@ -26257,7 +26257,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 67890,Norway,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,7.0,76514.0,4.883740906610655,False
 67897,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,11268.0,4.051846838313736,False
 67902,Thailand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,39.5,6.0,35736.0,4.553105939463782,False
-67903,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,7.0,80000.0,4.903089986991944,False
+67903,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,7.0,80000.0,4.903089986991944,False
 67904,Germany,,,13.0,13.0,29.5,6.0,45528.0,4.658278572600269,False
 67907,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,29170.0,4.464936429121733,False
 67911,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,28.0,28.0,39.5,7.0,128507.0,5.108926785088116,False
@@ -26638,7 +26638,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 68862,Australia,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,6.0,83972.0,4.924134497101746,False
 68863,South Africa,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,38568.0,4.586227118474951,False
 68866,Nepal,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,5.0,8220.0,3.9148718175400505,False
-68867,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,37200.0,4.570542939881897,False
+68867,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,37200.0,4.570542939881897,False
 68868,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,45283.0,4.655935191154745,False
 68875,Pakistan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,7956.0,3.900694774452398,False
 68877,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,29.5,7.0,91500.0,4.9614210940664485,False
@@ -26738,7 +26738,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 69133,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,49.5,3.0,120000.0,5.079181246047625,False
 69135,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,7.0,29376.0,4.4679926595211485,False
 69138,United States,Associate degree,Informatyka,10.0,10.0,29.5,7.0,39000.0,4.5910646070264995,False
-69140,Zambia,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,4.857142857142856,21.0,6.0,1824.0,3.2610248339923973,False
+69140,Zambia,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,5.499999999999999,21.0,6.0,1824.0,3.2610248339923973,False
 69142,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,43060.0,4.634074025487468,False
 69143,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,7.0,64800.0,4.811575005870593,False
 69147,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,1.0,40701.0,4.609605079720224,False
@@ -27097,7 +27097,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 69981,Portugal,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,21.0,3.0,14688.0,4.166962663857167,False
 69982,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,3.0,76800.0,4.885361220031512,False
 69984,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,3.0,96000.0,4.982271233039568,False
-69987,United States,Some college/university study without earning a degree,Spoza IT,,8.285714285714286,29.5,4.0,122000.0,5.086359830674748,False
+69987,United States,Some college/university study without earning a degree,Spoza IT,,7.75,29.5,4.0,122000.0,5.086359830674748,False
 69993,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,44256.0,4.645972158429217,False
 69995,Sri Lanka,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,14040.0,4.147367107793786,False
 69998,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,70000.0,4.845098040014257,False
@@ -27124,7 +27124,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 70061,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,7.0,3720.0,3.5705429398818973,False
 70062,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,13.0,13.0,29.5,7.0,70000.0,4.845098040014257,False
 70063,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,39.5,4.0,67368.0,4.8284536543460455,False
-70069,United Kingdom,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,5.0,104178.0,5.0177760156297815,False
+70069,United Kingdom,Some college/university study without earning a degree,Informatyka,,7.75,29.5,5.0,104178.0,5.0177760156297815,False
 70070,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,26612.0,4.425077514774012,False
 70072,New Zealand,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,10.0,10.0,29.5,3.0,51159.0,4.708922046777562,False
 70081,Italy,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,29373.0,4.467948305287141,False
@@ -27147,7 +27147,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 70124,Germany,Some college/university study without earning a degree,Informatyka,25.0,25.0,49.5,7.0,61194.0,4.786708842167891,False
 70126,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,26926.0,4.430171841456267,False
 70127,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,4.0,4.0,29.5,3.0,3756.0,3.5747255835940734,False
-70132,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,5.0,36720.0,4.564902672529205,False
+70132,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,5.0,36720.0,4.564902672529205,False
 70137,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,25.0,25.0,39.5,6.0,212000.0,5.326335860928752,False
 70141,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,9706.0,3.987040286979267,False
 70145,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,21.0,6.0,37940.0,4.579097326552644,False
@@ -28120,7 +28120,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 72618,United States,Some college/university study without earning a degree,Spoza IT,28.0,28.0,39.5,5.0,73000.0,4.863322860120456,False
 72619,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,21.0,6.0,220296.0,5.343006611568839,True
 72621,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,16.0,16.0,,7.0,67313.0,4.82809894658723,False
-72622,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,4.0,175000.0,5.243038048686294,False
+72622,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,4.0,175000.0,5.243038048686294,False
 72625,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,105000.0,5.021189299069938,False
 72628,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,7.0,103965.0,5.016887157902775,False
 72631,New Zealand,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,13.0,13.0,21.0,,18250.0,4.261262868792493,True
@@ -29330,7 +29330,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 75751,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,9552.0,3.980094313785294,False
 75752,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,21.0,6.0,41671.0,4.61983392256601,False
 75754,Croatia,Some college/university study without earning a degree,Informatyka,30.0,30.0,49.5,6.0,73428.0,4.865861699244274,False
-75756,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,8.285714285714286,29.5,3.0,31821.0,4.502713823571336,False
+75756,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,7.75,29.5,3.0,31821.0,4.502713823571336,False
 75760,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,88752.0,4.94817814853476,False
 75761,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,97233.0,4.9878136855600195,False
 75762,Uruguay,Some college/university study without earning a degree,Informatyka,10.0,10.0,39.5,6.0,26400.0,4.421603926869831,False
@@ -29738,7 +29738,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 76798,Brazil,Some college/university study without earning a degree,Pokrewne IT,10.0,10.0,29.5,3.0,280728.0,5.448285731619254,True
 76800,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,114771.0,5.059832165666337,False
 76804,United Kingdom,Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,2.0,27781.0,4.4437478744709065,False
-76805,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,7.0,125000.0,5.096910013008056,False
+76805,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,7.0,125000.0,5.096910013008056,False
 76809,Mexico,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,19332.0,4.286276786466843,False
 76810,Lithuania,Some college/university study without earning a degree,Informatyka,19.0,19.0,29.5,7.0,44064.0,4.64408391857683,False
 76815,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,5.0,140000.0,5.146128035678238,False
@@ -30464,7 +30464,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 78739,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,39.5,6.0,100000.0,5.0,False
 78740,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,6.0,39588.0,4.597563561592969,False
 78741,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,3.0,110000.0,5.041392685158225,False
-78743,United States,,,,8.285714285714286,29.5,7.0,105000.0,5.021189299069938,False
+78743,United States,,,,7.75,29.5,7.0,105000.0,5.021189299069938,False
 78744,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,25.0,25.0,49.5,6.0,108000.0,5.033423755486949,False
 78746,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,21.0,2.0,18780.0,4.273695587930092,False
 78747,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,39.5,6.0,250000.0,5.3979400086720375,False
@@ -30682,7 +30682,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 79326,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,39.5,1.0,142377.0,5.1534398377569595,False
 79329,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,16.0,16.0,39.5,5.0,116000.0,5.064457989226918,False
 79330,United States,Some college/university study without earning a degree,Informatyka,22.0,22.0,39.5,6.0,139000.0,5.143014800254095,False
-79331,United States,Some college/university study without earning a degree,Spoza IT,,8.285714285714286,29.5,7.0,67000.0,4.826074802700826,False
+79331,United States,Some college/university study without earning a degree,Spoza IT,,7.75,29.5,7.0,67000.0,4.826074802700826,False
 79332,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,29.5,2.0,36720.0,4.564902672529205,False
 79338,Ukraine,Some college/university study without earning a degree,Informatyka,1.0,1.0,29.5,5.0,8352.0,3.921790485658187,False
 79345,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,7.0,7827.0,3.893595333819883,False
@@ -30851,7 +30851,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 79789,Republic of Korea,Associate degree,Spoza IT,1.0,1.0,29.5,6.0,24660.0,4.391993072259713,False
 79792,Belarus,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,40800.0,4.61066016308988,False
 79798,"Congo, Republic of the...","Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,12000.0,4.079181246047625,False
-79800,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,7.0,96000.0,4.982271233039568,False
+79800,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,7.0,96000.0,4.982271233039568,False
 79801,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,,7.0,32532.0,4.51231076362811,False
 79803,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,4.0,10584.0,4.0246498311794445,False
 79805,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,5.0,46000.0,4.662757831681574,False
@@ -31384,7 +31384,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 81258,Brazil,,,13.0,13.0,29.5,5.0,17220.0,4.236033147117636,False
 81260,United States,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,29.5,5.0,81000.0,4.9084850188786495,False
 81261,Pakistan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,8676.0,3.9383195433421556,False
-81262,Peru,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,8.285714285714286,29.5,4.0,60000.0,4.778151250383644,False
+81262,Peru,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,7.75,29.5,4.0,60000.0,4.778151250383644,False
 81264,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,7.0,100000.0,5.0,False
 81265,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,7512.0,3.8757555792580547,False
 81266,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,92600.0,4.966610986681935,False
@@ -31567,7 +31567,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 81762,United States,Some college/university study without earning a degree,Spoza IT,19.0,19.0,29.5,7.0,75000.0,4.8750612633917,False
 81763,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,5.0,115000.0,5.060697840353612,False
 81774,United Kingdom,Some college/university study without earning a degree,Spoza IT,4.0,4.0,29.5,6.0,44449.0,4.647861994791786,False
-81776,Poland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,4.857142857142856,21.0,6.0,43704.0,4.640521187506526,False
+81776,Poland,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,5.499999999999999,21.0,6.0,43704.0,4.640521187506526,False
 81785,Germany,Associate degree,Informatyka,7.0,7.0,29.5,4.0,73433.0,4.865891271049046,False
 81790,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,5.0,21528.0,4.333003684755698,False
 81792,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,21.0,3.0,9396.0,3.972943008105568,False
@@ -31895,7 +31895,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 82647,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,18785.0,4.273811199399403,False
 82648,Switzerland,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,7.0,62562.0,4.796310623924554,False
 82650,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,4.0,4.0,21.0,7.0,65000.0,4.812913356642856,False
-82651,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,4.0,102900.0,5.012415374762433,False
+82651,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,4.0,102900.0,5.012415374762433,False
 82652,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,4.0,16437.0,4.215822555154372,False
 82654,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,144000.0,5.158362492095249,False
 82658,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,21.0,3.0,37940.0,4.579097326552644,False
@@ -32071,7 +32071,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 83086,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,6.0,61194.0,4.786708842167891,False
 83095,Kazakhstan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,16632.0,4.220944476323413,False
 83096,Hungary,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,3.0,13104.0,4.117403884416343,False
-83098,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,4.0,68868.0,4.8380174707945836,False
+83098,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,4.0,68868.0,4.8380174707945836,False
 83100,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,2.0,18785.0,4.273811199399403,False
 83105,Mexico,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,6.0,29544.0,4.470469294642922,False
 83106,Singapore,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,4.0,49968.0,4.698691966886123,False
@@ -32103,7 +32103,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 83171,Bangladesh,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,3.0,2892.0,3.461198288622493,False
 83172,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,19.0,19.0,39.5,7.0,110000.0,5.041392685158225,False
 83174,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,10.0,10.0,29.5,5.0,36000.0,4.556302500767287,False
-83175,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,4.857142857142856,21.0,6.0,61300.0,4.787460474518415,False
+83175,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,5.499999999999999,21.0,6.0,61300.0,4.787460474518415,False
 83178,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,4.0,95000.0,4.977723605288848,False
 83180,"Iran, Islamic Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,6.0,31632.0,4.500126651969597,False
 83184,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,22.0,22.0,39.5,6.0,63624.0,4.803620969444699,False
@@ -32150,7 +32150,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 83285,United Kingdom,Some college/university study without earning a degree,Spoza IT,1.0,1.0,21.0,6.0,34726.0,4.540654760910119,False
 83287,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,5.0,88000.0,4.944482672150168,False
 83288,Russian Federation,Some college/university study without earning a degree,Informatyka,10.0,10.0,,2.0,23352.0,4.368324081979958,False
-83290,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,3.0,62807.0,4.798008049660059,False
+83290,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,3.0,62807.0,4.798008049660059,False
 83292,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,225000.0,5.352182518111363,False
 83294,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,16.0,16.0,29.5,7.0,93000.0,4.968482948553935,False
 83303,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,29.5,6.0,70000.0,4.845098040014257,False
@@ -32707,7 +32707,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 84673,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,6.0,51403.0,4.710988466182538,False
 84679,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,6.0,11663.0,4.0668102756258335,False
 84680,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,1.0,125000.0,5.096910013008056,False
-84681,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,73212.0,4.864582271040012,False
+84681,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,73212.0,4.864582271040012,False
 84685,Germany,Associate degree,,7.0,7.0,29.5,3.0,48955.0,4.689797054903497,False
 84686,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,29.5,4.0,11741.0,4.069705088051851,False
 84689,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,5.0,33780.0,4.52865964523499,False
@@ -33054,7 +33054,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 85606,Austria,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,79552.0,4.900651102625532,False
 85608,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,16.0,16.0,29.5,5.0,31403.0,4.496971139194553,False
 85610,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,28.0,28.0,59.5,5.0,73433.0,4.865891271049046,False
-85613,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,5.0,125000.0,5.096910013008056,False
+85613,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,5.0,125000.0,5.096910013008056,False
 85615,United States,Associate degree,Informatyka,19.0,19.0,39.5,7.0,110000.0,5.041392685158225,False
 85616,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,68868.0,4.8380174707945836,False
 85617,Brazil,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,2.0,7488.0,3.874365835730049,False
@@ -33163,7 +33163,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 85892,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,7.0,7.0,,7.0,128000.0,5.107209969647869,False
 85893,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,2.0,55075.0,4.740954505822805,False
 85895,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,21.0,6.0,56000.0,4.748188027006201,False
-85896,Argentina,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,38136.0,4.581335138918986,False
+85896,Argentina,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,38136.0,4.581335138918986,False
 85897,Denmark,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,4.0,88752.0,4.94817814853476,False
 85899,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,5.0,14089.0,4.14888016912823,False
 85903,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,,5.0,67632.0,4.830152230484944,False
@@ -33628,7 +33628,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 87100,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,23760.0,4.375846436309156,False
 87101,Austria,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,25.0,25.0,39.5,6.0,61194.0,4.786708842167891,False
 87102,Czech Republic,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,21.0,1.0,20268.0,4.306810895618633,False
-87106,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,7.0,62807.0,4.798008049660059,False
+87106,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,7.0,62807.0,4.798008049660059,False
 87108,Finland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,39.5,1.0,64620.0,4.810366953681625,False
 87109,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,25.0,25.0,39.5,7.0,131000.0,5.117271295655764,False
 87110,Canada,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,,30000.0,4.477121254719663,False
@@ -34002,7 +34002,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 88026,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,150000.0,5.176091259055681,False
 88027,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,4.0,73433.0,4.865891271049046,False
 88029,Lithuania,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,3.0,16152.0,4.2082263059355824,False
-88030,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,5.0,185000.0,5.267171728403014,False
+88030,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,5.0,185000.0,5.267171728403014,False
 88038,United States,Some college/university study without earning a degree,Spoza IT,7.0,7.0,21.0,5.0,34000.0,4.531478917042255,False
 88039,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,28.0,28.0,59.5,6.0,121147.0,5.083312664040364,False
 88040,South Africa,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,5.0,54384.0,4.735471147238984,False
@@ -34016,10 +34016,10 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 88056,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,91677.0,4.962260393183928,False
 88057,Denmark,Some college/university study without earning a degree,Informatyka,16.0,16.0,39.5,7.0,112428.0,5.050874484997486,False
 88059,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,65000.0,4.812913356642856,False
-88060,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,8.285714285714286,29.5,6.0,100000.0,5.0,False
+88060,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,,7.75,29.5,6.0,100000.0,5.0,False
 88064,Singapore,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,21.0,5.0,60564.0,4.782214550781311,False
 88066,Lithuania,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,21.0,5.0,28980.0,4.4620983811351556,False
-88071,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,160000.0,5.204119982655925,False
+88071,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,160000.0,5.204119982655925,False
 88072,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,44287.0,4.646276262186467,False
 88073,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,7.0,56892.0,4.755051201366581,False
 88074,Austria,Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,5.0,53116.0,4.725225362230882,False
@@ -34095,7 +34095,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 88253,United States,Associate degree,Pokrewne IT,4.0,4.0,49.5,7.0,60000.0,4.778151250383644,False
 88259,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,2.0,13152.0,4.1189918001959756,False
 88261,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,49.5,6.0,130000.0,5.113943352306837,False
-88264,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,4.0,90000.0,4.954242509439325,False
+88264,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,4.0,90000.0,4.954242509439325,False
 88265,Ireland,Some college/university study without earning a degree,,19.0,19.0,29.5,7.0,42836.0,4.631808909894799,False
 88266,Denmark,"Professional degree (JD, MD, etc.)",Informatyka,4.0,4.0,21.0,5.0,63120.0,4.8001669902013635,False
 88267,Kazakhstan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,2592.0,3.413634997198556,False
@@ -34204,7 +34204,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 88540,Belgium,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,6.0,44064.0,4.64408391857683,False
 88541,Poland,Some college/university study without earning a degree,Spoza IT,13.0,13.0,29.5,2.0,63516.0,4.802883140038893,False
 88545,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,4.0,4.0,29.5,6.0,46992.0,4.672023929178725,False
-88549,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,3.0,3984.0,3.600319329751661,False
+88549,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,3.0,3984.0,3.600319329751661,False
 88552,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,52872.0,4.723225738862373,False
 88554,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,6.0,42836.0,4.631808909894799,False
 88557,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,,6.0,39060.0,4.591732238951836,False
@@ -34407,7 +34407,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 89080,Denmark,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,7.0,7.0,29.5,6.0,83827.0,4.9233839239094115,False
 89083,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,43060.0,4.634074025487468,False
 89085,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,3.0,80000.0,4.903089986991944,False
-89086,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,103000.0,5.012837224705172,False
+89086,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,103000.0,5.012837224705172,False
 89089,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,2.0,73433.0,4.865891271049046,False
 89090,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,58752.0,4.76902265518513,False
 89092,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,39.5,6.0,100056.0,5.000243136837903,False
@@ -34763,7 +34763,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 90010,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,39.5,6.0,130000.0,5.113943352306837,False
 90012,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,22.0,22.0,39.5,3.0,50094.0,4.699785711437349,False
 90013,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,30.0,30.0,59.5,7.0,154000.0,5.187520720836463,False
-90016,United Arab Emirates,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,46068.0,4.66339935816503,False
+90016,United Arab Emirates,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,46068.0,4.66339935816503,False
 90017,Germany,Primary/elementary school,,4.0,4.0,21.0,3.0,51403.0,4.710988466182538,False
 90018,United States,Some college/university study without earning a degree,Spoza IT,4.0,4.0,29.5,7.0,120000.0,5.079181246047625,False
 90019,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,7.0,9393.0,3.972804322336578,False
@@ -34936,7 +34936,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 90457,Italy,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,29.5,2.0,20556.0,4.312938609013135,False
 90462,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,80000.0,4.903089986991944,False
 90465,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,2.0,7827.0,3.893595333819883,False
-90471,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,2.0,152794.0,5.184106300456601,False
+90471,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,2.0,152794.0,5.184106300456601,False
 90472,Bangladesh,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,7.0,11544.0,4.062356318085437,False
 90473,Canada,Some college/university study without earning a degree,Informatyka,19.0,19.0,39.5,3.0,60391.0,4.780972221045412,False
 90474,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,39.5,7.0,150000.0,5.176091259055681,False
@@ -35447,7 +35447,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 91788,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,5.0,110000.0,5.041392685158225,False
 91792,Canada,Some college/university study without earning a degree,Informatyka,10.0,10.0,29.5,6.0,44287.0,4.646276262186467,False
 91794,"Iran, Islamic Republic of...",Some college/university study without earning a degree,Informatyka,13.0,13.0,29.5,7.0,13320.0,4.124504224834283,False
-91796,Netherlands,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,8.285714285714286,29.5,6.0,102804.0,5.012010012948472,False
+91796,Netherlands,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,7.75,29.5,6.0,102804.0,5.012010012948472,False
 91798,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,21.0,6.0,65000.0,4.812913356642856,False
 91808,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,1.0,1.0,21.0,2.0,19104.0,4.281124309449275,False
 91809,Mexico,Some college/university study without earning a degree,Informatyka,22.0,22.0,29.5,6.0,22236.0,4.347056665366522,False
@@ -35606,7 +35606,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 92189,"Iran, Islamic Republic of...","Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,4.0,11040.0,4.04296907339318,False
 92197,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,38928.0,4.590262091586744,False
 92198,Sri Lanka,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,29.5,5.0,4284.0,3.631849462159818,False
-92199,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,8.285714285714286,29.5,3.0,33000.0,4.518513939877887,False
+92199,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,,7.75,29.5,3.0,33000.0,4.518513939877887,False
 92202,India,,,1.0,1.0,,,6000.0,3.7781512503836434,False
 92204,New Zealand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,6.0,98664.0,4.994158718491955,False
 92207,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,6.0,34000.0,4.531478917042255,False
@@ -35825,7 +35825,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 92713,United States,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,,,10000.0,4.0,True
 92714,Switzerland,Primary/elementary school,,4.0,4.0,21.0,6.0,13764.0,4.138744663948892,True
 92717,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,21.0,4.0,14872.0,4.172369376763842,False
-92718,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,8.285714285714286,29.5,6.0,62507.0,4.795928655602356,False
+92718,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,7.75,29.5,6.0,62507.0,4.795928655602356,False
 92719,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,3.0,100000.0,5.0,False
 92723,United States,Some college/university study without earning a degree,,19.0,19.0,39.5,6.0,135000.0,5.1303337684950066,False
 92724,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,13.0,13.0,29.5,3.0,110000.0,5.041392685158225,False
@@ -36400,7 +36400,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 94216,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,5.0,69452.0,4.8416847565741,False
 94217,Romania,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,39.5,4.0,331092.0,5.519948687252131,True
 94218,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,3.0,52015.0,4.716128602823834,False
-94219,Kazakhstan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,,8.285714285714286,29.5,6.0,20328.0,4.308094652042313,False
+94219,Kazakhstan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,,7.75,29.5,6.0,20328.0,4.308094652042313,False
 94220,Sweden,Associate degree,Pokrewne IT,10.0,10.0,29.5,6.0,58392.0,4.766353350642424,False
 94221,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,70000.0,4.845098040014257,False
 94225,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,28.0,28.0,39.5,7.0,150000.0,5.176091259055681,False
@@ -36541,7 +36541,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 94592,South Africa,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,13.0,13.0,29.5,6.0,54384.0,4.735471147238984,False
 94594,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,,3.0,6168.0,3.7901443650429005,True
 94598,Malta,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,2.0,21418.0,4.330778914230818,False
-94602,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,140000.0,5.146128035678238,False
+94602,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,140000.0,5.146128035678238,False
 94603,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,13.0,13.0,29.5,3.0,165000.0,5.217483944213907,False
 94604,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,70000.0,4.845098040014257,False
 94606,Mexico,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,4.0,7092.0,3.85076872692888,False
@@ -36617,10 +36617,10 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 94766,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,28.0,28.0,49.5,5.0,200000.0,5.301029995663981,False
 94768,Austria,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,3.0,55075.0,4.740954505822805,False
 94772,Sweden,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,22.0,22.0,39.5,6.0,52399.0,4.719322998842009,False
-94776,Brazil,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,2.0,11976.0,4.078311787334996,False
+94776,Brazil,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,2.0,11976.0,4.078311787334996,False
 94777,Portugal,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,2.0,16128.0,4.207580514765431,False
 94778,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,39.5,7.0,140000.0,5.146128035678238,False
-94781,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,71976.0,4.857187707471133,False
+94781,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,71976.0,4.857187707471133,False
 94785,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,5.0,41988.0,4.623125188530532,False
 94786,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,29.5,6.0,187848.0,5.27380657553149,True
 94788,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,28.0,28.0,59.5,1.0,52627.0,4.7212086137835625,False
@@ -37099,7 +37099,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 95969,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,5.0,8923.0,3.9505108929859967,False
 95970,United Kingdom,Some college/university study without earning a degree,Pokrewne IT,4.0,4.0,21.0,5.0,15279.0,4.18409493089584,True
 95971,Estonia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,3.0,29376.0,4.4679926595211485,False
-95979,Sweden,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,7.0,52404.0,4.719364437968965,False
+95979,Sweden,Some college/university study without earning a degree,Informatyka,,7.75,29.5,7.0,52404.0,4.719364437968965,False
 95981,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,28.0,28.0,39.5,5.0,100652.0,5.0028224089348985,False
 95984,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,5.0,87971.0,4.944339528790306,False
 95988,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,21.0,5.0,23172.0,4.364963519827019,False
@@ -37366,7 +37366,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 96639,Brazil,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,6.0,14976.0,4.17539583139403,False
 96640,Russian Federation,"Professional degree (JD, MD, etc.)",Informatyka,10.0,10.0,29.5,5.0,41400.0,4.617000341120899,False
 96641,Bulgaria,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,6.0,34692.0,4.540229337718283,False
-96642,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,150000.0,5.176091259055681,False
+96642,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,150000.0,5.176091259055681,False
 96644,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,16.0,16.0,39.5,6.0,34752.0,4.540979803572734,False
 96645,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,,4.0,16437.0,4.215822555154372,False
 96653,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,3.0,35988.0,4.556157711807152,False
@@ -38890,7 +38890,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 100484,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,10.0,10.0,29.5,6.0,80521.0,4.905909159805603,False
 100487,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,2.0,90200.0,4.955206537541942,False
 100494,India,I never completed any formal education,,4.0,4.0,29.5,2.0,8448.0,3.926753905189737,False
-100496,Estonia,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,4.0,50280.0,4.70139526901392,False
+100496,Estonia,Some college/university study without earning a degree,Informatyka,,7.75,29.5,4.0,50280.0,4.70139526901392,False
 100499,Estonia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,7.0,51408.0,4.711030708207443,False
 100500,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,2.0,157000.0,5.195899652409234,False
 100504,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,5.0,131670.0,5.1194868355646355,False
@@ -38902,7 +38902,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 100521,Netherlands,Associate degree,Pokrewne IT,4.0,4.0,21.0,7.0,46992.0,4.672023929178725,False
 100523,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,,7.0,75000.0,4.8750612633917,False
 100534,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,22.0,22.0,39.5,5.0,128000.0,5.107209969647869,False
-100537,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,160000.0,5.204119982655925,False
+100537,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,160000.0,5.204119982655925,False
 100541,Japan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,6.0,81035.0,4.90867263645637,False
 100544,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,5.0,17689.0,4.247703281934172,False
 100546,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,1.0,1.0,29.5,2.0,55000.0,4.740362689494244,False
@@ -39239,7 +39239,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 101481,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,1.0,1.0,29.5,3.0,80000.0,4.903089986991944,False
 101482,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,2.0,41856.0,4.621757722308154,False
 101486,Slovenia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,29.5,6.0,33780.0,4.52865964523499,False
-101489,Australia,Some college/university study without earning a degree,Spoza IT,,4.857142857142856,21.0,7.0,95968.0,4.982126444079433,False
+101489,Australia,Some college/university study without earning a degree,Spoza IT,,5.499999999999999,21.0,7.0,95968.0,4.982126444079433,False
 101490,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,6.0,55075.0,4.740954505822805,False
 101495,United States,Associate degree,Pokrewne IT,19.0,19.0,39.5,6.0,65000.0,4.812913356642856,False
 101500,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,6.0,82000.0,4.913813852383717,False
@@ -39431,7 +39431,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 3514,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,7.0,18000.0,4.2552725051033065,False
 3535,United States,Some college/university study without earning a degree,Informatyka,7.0,7.0,21.0,4.0,120000.0,5.079181246047625,False
 3552,India,Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,7.0,9396.0,3.972943008105568,False
-3581,Ghana,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,6.0,5520.0,3.741939077729199,False
+3581,Ghana,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,6.0,5520.0,3.741939077729199,False
 3599,Italy,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,7.0,105744.0,5.0242557345263545,False
 3656,Colombia,,,4.0,4.0,21.0,6.0,8016.0,3.9039577085231705,False
 3691,Ukraine,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,5.0,43008.0,4.633549247037712,False
@@ -39440,7 +39440,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 3738,Denmark,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,30.0,30.0,49.5,3.0,180803.0,5.257205632293307,False
 3742,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,52000.0,4.7160033436347994,False
 3748,Czech Republic,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,5.0,17376.0,4.2399498079087525,False
-3785,United States,I never completed any formal education,,,8.285714285714286,29.5,6.0,120000.0,5.079181246047625,False
+3785,United States,I never completed any formal education,,,7.75,29.5,6.0,120000.0,5.079181246047625,False
 3818,South Africa,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,7.0,98892.0,4.995161160187849,False
 3846,Sweden,Associate degree,Informatyka,22.0,22.0,39.5,7.0,77856.0,4.891292087250725,False
 3853,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,39.5,6.0,66672.0,4.823943483113203,False
@@ -39520,7 +39520,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 5731,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,6.0,140000.0,5.146128035678238,False
 5770,Denmark,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,181464.0,5.258790479773825,False
 5775,Egypt,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,5.0,6000.0,3.7781512503836434,False
-5791,Mexico,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,22560.0,4.353339095311305,False
+5791,Mexico,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,22560.0,4.353339095311305,False
 5804,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,4.0,4.0,21.0,5.0,10958.0,4.039731296098691,False
 5810,El Salvador,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,9600.0,3.9822712330395684,False
 5831,Indonesia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,7.0,17904.0,4.2529500691842745,False
@@ -39841,7 +39841,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 12981,India,Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,7.0,5640.0,3.751279103983342,False
 13015,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,10.0,10.0,39.5,7.0,90288.0,4.955630032925966,False
 13029,Indonesia,Primary/elementary school,,7.0,7.0,21.0,3.0,4476.0,3.6508900778563125,False
-13056,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,79552.0,4.900651102625532,False
+13056,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,79552.0,4.900651102625532,False
 13064,Spain,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,21.0,3.0,55075.0,4.740954505822805,False
 13081,Canada,Some college/university study without earning a degree,Pokrewne IT,7.0,7.0,21.0,6.0,48313.0,4.684064005878024,False
 13087,Belarus,Some college/university study without earning a degree,Spoza IT,10.0,10.0,29.5,5.0,38400.0,4.5843312243675305,False
@@ -40080,7 +40080,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 18540,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,6.0,3756.0,3.5747255835940734,False
 18562,Portugal,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,39.5,5.0,32316.0,4.509417599459136,False
 18623,United Kingdom,Some college/university study without earning a degree,Informatyka,13.0,13.0,39.5,1.0,106250.0,5.026328938722349,False
-18644,France,Some college/university study without earning a degree,Spoza IT,,8.285714285714286,29.5,7.0,23496.0,4.370993933514744,False
+18644,France,Some college/university study without earning a degree,Spoza IT,,7.75,29.5,7.0,23496.0,4.370993933514744,False
 18802,Uganda,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,6.0,34992.0,4.5439687656935615,False
 18822,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,16.0,16.0,39.5,6.0,138904.0,5.142714752238081,False
 18846,Netherlands,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,30.0,30.0,39.5,6.0,48468.0,4.685455099217613,False
@@ -40094,9 +40094,9 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 18994,Ukraine,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,25.0,25.0,39.5,6.0,30000.0,4.477121254719663,False
 19139,Pakistan,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,39.5,5.0,16272.0,4.211440935578669,False
 19229,"Iran, Islamic Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,5.0,3600.0,3.5563025007672873,False
-19317,Italy,Primary/elementary school,,,8.285714285714286,29.5,3.0,30597.0,4.48567884650391,False
+19317,Italy,Primary/elementary school,,,7.75,29.5,3.0,30597.0,4.48567884650391,False
 19321,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,6.0,7344.0,3.865932668193186,True
-19323,United States,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,5.0,200000.0,5.301029995663981,False
+19323,United States,Some college/university study without earning a degree,Informatyka,,7.75,29.5,5.0,200000.0,5.301029995663981,False
 19426,Argentina,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,19.0,19.0,29.5,6.0,38136.0,4.581335138918986,False
 19458,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,19.0,19.0,29.5,4.0,134627.0,5.129132168172422,False
 19467,Netherlands,Associate degree,Informatyka,4.0,4.0,,6.0,26436.0,4.422195743198392,False
@@ -40335,7 +40335,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 25065,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,82000.0,4.913813852383717,False
 25093,Ethiopia,Some college/university study without earning a degree,,10.0,10.0,29.5,1.0,24000.0,4.380211241711606,False
 25094,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,25.0,25.0,49.5,6.0,250000.0,5.3979400086720375,False
-25163,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,7.0,62507.0,4.795928655602356,False
+25163,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,7.0,62507.0,4.795928655602356,False
 25179,Canada,"Professional degree (JD, MD, etc.)",Informatyka,7.0,7.0,21.0,6.0,32209.0,4.50797724139145,False
 25181,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,21.0,6.0,100000.0,5.0,False
 25231,Kenya,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,4.0,4.0,39.5,6.0,40824.0,4.610915555324175,False
@@ -40709,7 +40709,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 33851,Mexico,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,30.0,30.0,59.5,2.0,35448.0,4.5495917370235555,False
 33853,Czech Republic,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,10.0,10.0,29.5,5.0,53100.0,4.725094521081469,False
 33855,United States,Some college/university study without earning a degree,Informatyka,1.0,1.0,29.5,6.0,30000.0,4.477121254719663,True
-33871,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,42348.0,4.626832904407594,False
+33871,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,42348.0,4.626832904407594,False
 33921,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,7.0,45838.0,4.66122566027014,False
 33957,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,16.0,16.0,29.5,6.0,29376.0,4.4679926595211485,False
 33983,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,30.0,30.0,49.5,6.0,171343.0,5.233866366580467,False
@@ -41120,7 +41120,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 43161,Italy,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,30.0,30.0,59.5,7.0,159104.0,5.201681098289513,False
 43178,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,3.0,37428.0,4.573196620804769,False
 43186,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,7.0,7.0,29.5,2.0,48955.0,4.689797054903497,False
-43202,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,8.285714285714286,29.5,6.0,15650.0,4.194514341882467,False
+43202,India,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,7.75,29.5,6.0,15650.0,4.194514341882467,False
 43210,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,6.0,100000.0,5.0,False
 43233,Canada,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,25.0,25.0,49.5,6.0,104678.0,5.019855416324917,False
 43242,Australia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,30.0,30.0,49.5,6.0,135955.0,5.13339518421097,False
@@ -41267,7 +41267,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47024,Germany,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,4.0,4.0,29.5,3.0,36720.0,4.564902672529205,False
 47084,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,4.0,42348.0,4.626832904407594,False
 47087,Canada,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,7.0,7.0,39.5,6.0,32209.0,4.50797724139145,False
-47097,United States,Some college/university study without earning a degree,Informatyka,,8.285714285714286,29.5,6.0,170000.0,5.230448921378274,False
+47097,United States,Some college/university study without earning a degree,Informatyka,,7.75,29.5,6.0,170000.0,5.230448921378274,False
 47123,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,39.5,6.0,120000.0,5.079181246047625,False
 47133,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,,6.0,100652.0,5.0028224089348985,False
 47140,"Venezuela, Bolivarian Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,28.0,28.0,39.5,7.0,150000.0,5.176091259055681,False
@@ -41281,7 +41281,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 47255,Belgium,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,1.0,1.0,18.0,2.0,2940.0,3.4683473304121573,True
 47263,Russian Federation,Some college/university study without earning a degree,Pokrewne IT,4.0,4.0,21.0,6.0,1908.0,3.2805783703680764,True
 47358,Netherlands,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,16.0,16.0,39.5,6.0,97910.0,4.9908270505674786,False
-47364,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,5.0,94455.0,4.9752249523577445,False
+47364,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,5.0,94455.0,4.9752249523577445,False
 47367,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,2.0,106000.0,5.02530586526477,False
 47368,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,29376.0,4.4679926595211485,False
 47379,Belgium,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,7.0,7.0,29.5,5.0,146868.0,5.166927180832358,True
@@ -41452,7 +41452,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 50993,South Africa,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,22.0,22.0,39.5,6.0,161500.0,5.208172526667122,False
 51000,Chile,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,25.0,25.0,39.5,7.0,60000.0,4.778151250383644,False
 51023,Canada,Associate degree,Informatyka,4.0,4.0,29.5,3.0,40261.0,4.604884557663624,False
-51080,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,8.285714285714286,29.5,3.0,63516.0,4.802883140038893,False
+51080,Poland,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,,7.75,29.5,3.0,63516.0,4.802883140038893,False
 51090,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,30.0,30.0,59.5,6.0,112730.0,5.052039507001472,False
 51177,Malaysia,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,39.5,3.0,38004.0,4.579829309419536,False
 51190,United Kingdom,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,16.0,16.0,29.5,7.0,50004.0,4.699004746504903,False
@@ -41612,7 +41612,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 54839,Honduras,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,2.0,7344.0,3.865932668193186,False
 54858,United States,,,10.0,10.0,29.5,6.0,27048.0,4.432135157757712,True
 54872,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,19.0,19.0,39.5,1.0,116000.0,5.064457989226918,False
-54883,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,8.285714285714286,29.5,7.0,161043.0,5.206941852238957,False
+54883,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,7.75,29.5,7.0,161043.0,5.206941852238957,False
 54892,India,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,1.0,2820.0,3.450249108319361,False
 54893,Brazil,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,30.0,30.0,39.5,6.0,112289.0,5.05033721420192,False
 54907,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,30000.0,4.477121254719663,False
@@ -41649,7 +41649,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 55666,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,21.0,2.0,29376.0,4.4679926595211485,False
 55703,United States,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,19.0,19.0,,4.0,122388.0,5.087738837831872,False
 55746,"Iran, Islamic Republic of...","Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,6.0,26640.0,4.425534220498263,False
-55763,Other Country (Not Listed Above),,,,8.285714285714286,29.5,5.0,13104.0,4.117403884416343,False
+55763,Other Country (Not Listed Above),,,,7.75,29.5,5.0,13104.0,4.117403884416343,False
 55775,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,5.0,35000.0,4.544068044350276,False
 55782,Slovenia,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,19.0,19.0,29.5,6.0,97910.0,4.9908270505674786,False
 55831,Poland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,19.0,19.0,39.5,7.0,52933.0,4.723726508510903,False
@@ -41724,7 +41724,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 57441,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,30.0,30.0,59.5,7.0,269253.0,5.430160550878793,True
 57456,Russian Federation,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,6.0,21228.0,4.326909078957348,False
 57470,France,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,4.0,4.0,21.0,4.0,26436.0,4.422195743198392,False
-57505,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,3.0,18785.0,4.273811199399403,False
+57505,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,3.0,18785.0,4.273811199399403,False
 57516,Spain,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,5.0,22030.0,4.343014497150768,False
 57536,Australia,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,19.0,19.0,49.5,7.0,159950.0,5.203984244420126,False
 57604,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,1.0,24000.0,4.380211241711606,True
@@ -41988,7 +41988,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 63566,United States,Some college/university study without earning a degree,Informatyka,19.0,19.0,39.5,7.0,120000.0,5.079181246047625,False
 63582,Bulgaria,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,10.0,10.0,29.5,5.0,22032.0,4.343053922912849,False
 63584,Canada,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,10.0,10.0,29.5,2.0,48313.0,4.684064005878024,False
-63596,Germany,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,8.285714285714286,29.5,5.0,67313.0,4.82809894658723,False
+63596,Germany,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,,7.75,29.5,5.0,67313.0,4.82809894658723,False
 63624,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,,2.0,122400.0,5.087781417809542,False
 63689,Norway,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,7.0,191285.0,5.281680915282693,False
 63693,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,19.0,19.0,39.5,7.0,140000.0,5.146128035678238,False
@@ -42152,7 +42152,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 67277,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,7.0,120000.0,5.079181246047625,False
 67322,New Zealand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,7.0,14617.0,4.164858246962555,True
 67325,Brazil,Associate degree,Informatyka,4.0,4.0,21.0,1.0,9732.0,3.988202100258781,False
-67404,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,6.0,207096.0,5.316171710700773,False
+67404,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,6.0,207096.0,5.316171710700773,False
 67409,Turkey,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,7.0,25428.0,4.405312202758419,False
 67421,Italy,Some college/university study without earning a degree,Informatyka,22.0,22.0,39.5,5.0,73428.0,4.865861699244274,False
 67429,United Kingdom,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,19.0,19.0,49.5,3.0,90288.0,4.955630032925966,False
@@ -42775,7 +42775,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 81815,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,4.0,4.0,21.0,6.0,440052.0,5.643503999165041,True
 81818,Other Country (Not Listed Above),"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,2.0,26436.0,4.422195743198392,False
 81821,Denmark,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,28.0,28.0,39.5,6.0,131493.0,5.118902633872998,False
-81834,Australia,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,8.285714285714286,29.5,7.0,30888.0,4.489789788615993,False
+81834,Australia,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,7.75,29.5,7.0,30888.0,4.489789788615993,False
 81886,Kenya,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,7.0,7.0,,7.0,36000.0,4.556302500767287,False
 81959,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,152794.0,5.184106300456601,False
 81989,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,21.0,3.0,38652.0,4.587171970867316,False
@@ -42798,7 +42798,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 82345,Switzerland,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,19.0,19.0,39.5,6.0,131379.0,5.118525951882974,False
 82444,Turkey,Some college/university study without earning a degree,Spoza IT,7.0,7.0,29.5,6.0,60000.0,4.778151250383644,False
 82477,Germany,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,5.0,171343.0,5.233866366580467,False
-82486,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,8.285714285714286,29.5,7.0,96626.0,4.985094001542005,False
+82486,Canada,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,,7.75,29.5,7.0,96626.0,4.985094001542005,False
 82492,Spain,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,13.0,13.0,29.5,2.0,93996.0,4.973109372590232,False
 82503,Australia,"Other doctoral degree (Ph.D, Ed.D., etc.)",Spoza IT,30.0,30.0,59.5,6.0,67977.0,4.832361994136493,False
 82513,United States,Some college/university study without earning a degree,Informatyka,30.0,30.0,49.5,6.0,125000.0,5.096910013008056,False
@@ -42831,7 +42831,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 82888,Russian Federation,"Professional degree (JD, MD, etc.)",Informatyka,13.0,13.0,29.5,5.0,60000.0,4.778151250383644,False
 82933,Brazil,Some college/university study without earning a degree,Informatyka,7.0,7.0,29.5,5.0,26196.0,4.418234981756764,False
 82997,Serbia,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,6.0,29376.0,4.4679926595211485,False
-83000,Austria,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,8.285714285714286,29.5,7.0,85671.0,4.9328338362594,False
+83000,Austria,"Other doctoral degree (Ph.D, Ed.D., etc.)",Informatyka,,7.75,29.5,7.0,85671.0,4.9328338362594,False
 83036,India,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,7.0,7.0,29.5,1.0,2256.0,3.3533390953113047,False
 83040,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,7.0,111123.0,5.0458039575842975,False
 83053,Russian Federation,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Pokrewne IT,19.0,19.0,29.5,6.0,25476.0,4.4061312402136235,False
@@ -42915,7 +42915,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 84829,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,29.5,6.0,250027.0,5.3979869099434605,True
 84834,United States,Some college/university study without earning a degree,Informatyka,30.0,30.0,39.5,7.0,275000.0,5.439332693830263,False
 84887,Portugal,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,16.0,16.0,29.5,6.0,41856.0,4.621757722308154,False
-84949,Ukraine,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,4.857142857142856,21.0,5.0,7200.0,3.8573324964312685,False
+84949,Ukraine,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,,5.499999999999999,21.0,5.0,7200.0,3.8573324964312685,False
 84970,Switzerland,Some college/university study without earning a degree,Spoza IT,30.0,30.0,49.5,5.0,312808.0,5.495277851521528,True
 84986,Pakistan,Associate degree,Informatyka,4.0,4.0,,6.0,10000.0,4.0,False
 85033,Israel,"Bachelor’s degree (BA, BS, B.Eng., etc.)",,30.0,30.0,49.5,1.0,64248.0,4.807859612898539,False
@@ -43129,7 +43129,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 90087,United States,Some college/university study without earning a degree,Spoza IT,22.0,22.0,39.5,2.0,166000.0,5.220108088040055,False
 90102,Czech Republic,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,7.0,7.0,29.5,3.0,42588.0,4.629287245395218,False
 90111,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,7.0,80000.0,4.903089986991944,False
-90148,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,7.0,277800.0,5.443732241401597,True
+90148,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,7.0,277800.0,5.443732241401597,True
 90190,New Zealand,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,7.0,116935.0,5.067944519988407,False
 90200,France,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",,22.0,22.0,29.5,3.0,68537.0,4.8359250905817355,False
 90228,"Venezuela, Bolivarian Republic of...",Some college/university study without earning a degree,Pokrewne IT,1.0,1.0,21.0,6.0,30000.0,4.477121254719663,False
@@ -43239,7 +43239,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 93007,Romania,Primary/elementary school,,4.0,4.0,18.0,6.0,2208.0,3.3439990690571615,True
 93037,Colombia,Some college/university study without earning a degree,Informatyka,1.0,1.0,29.5,1.0,2400.0,3.380211241711606,False
 93085,Sweden,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,28.0,28.0,39.5,7.0,74856.0,4.87422661646875,False
-93097,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,6.0,11112.0,4.045792232729559,True
+93097,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,6.0,11112.0,4.045792232729559,True
 93125,Belarus,"Professional degree (JD, MD, etc.)",Pokrewne IT,13.0,13.0,29.5,6.0,36000.0,4.556302500767287,False
 93126,Netherlands,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,10.0,10.0,29.5,6.0,122388.0,5.087738837831872,False
 93140,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,21.0,6.0,71400.0,4.853698211776174,False
@@ -43425,7 +43425,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 96989,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,1.0,1.0,29.5,4.0,1440.0,3.1583624920952498,True
 96999,United States,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,7.0,7.0,29.5,6.0,100000.0,5.0,False
 97012,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Spoza IT,13.0,13.0,29.5,7.0,97233.0,4.9878136855600195,False
-97107,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,8.285714285714286,29.5,7.0,109992.0,5.041361098956393,False
+97107,United States,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Spoza IT,,7.75,29.5,7.0,109992.0,5.041361098956393,False
 97191,Canada,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,16.0,16.0,29.5,6.0,96626.0,4.985094001542005,False
 97199,United Kingdom,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Informatyka,22.0,22.0,39.5,6.0,118068.0,5.072132206618071,False
 97272,Pakistan,"Bachelor’s degree (BA, BS, B.Eng., etc.)",Pokrewne IT,10.0,10.0,29.5,6.0,18000.0,4.2552725051033065,False
@@ -43631,7 +43631,7 @@ Respondent,Country,FormalEducation,cs_group,years_coding_num,years_coding_imp,ag
 15765,Germany,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,,6612.0,3.82033284489941,True
 16510,Canada,Primary/elementary school,,1.0,1.0,18.0,,6276.0,3.7976829349148993,True
 16630,United States,Associate degree,Informatyka,4.0,4.0,21.0,,10000.0,4.0,True
-17920,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,19.642857142857146,39.5,,33336.0,4.522913487449221,False
+17920,United Kingdom,"Master’s degree (MA, MS, M.Eng., MBA, etc.)",Informatyka,,25.25,39.5,,33336.0,4.522913487449221,False
 22241,Nepal,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",,4.0,4.0,21.0,,18780.0,4.273695587930092,False
 27159,Brazil,Some college/university study without earning a degree,Informatyka,4.0,4.0,29.5,,7488.0,3.874365835730049,False
 32510,United States,Some college/university study without earning a degree,Informatyka,4.0,4.0,21.0,,20000.0,4.301029995663981,True
