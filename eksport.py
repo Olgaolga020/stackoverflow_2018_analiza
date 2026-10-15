@@ -319,6 +319,9 @@ document.addEventListener("DOMContentLoaded", function () {
         var dirLight = new THREE.DirectionalLight(0xffffff, 0.5);
         dirLight.position.set(20, 40, 30);
         scene.add(dirLight);
+      // obrócenie sceny o 12 stopni w lewo, by wieża była lekko pochylona
+        var tower = new THREE.Group();
+        scene.add(tower);
 
         // DELIKATNIE POWIĘKSZONE KLOCKI, by po skręceniu nadal wyglądały masywnie
         var geometry = new THREE.BoxGeometry(18, 2.6, 7);
@@ -352,7 +355,7 @@ document.addEventListener("DOMContentLoaded", function () {
             var line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial({ color: 0x000000, transparent: true, opacity: 0.15 }));
             mesh.add(line);
             
-            scene.add(mesh);
+            tower.add(mesh);
         }
 
         // Pochylenie CAŁEJ wieży o 12 stopni
@@ -361,8 +364,13 @@ document.addEventListener("DOMContentLoaded", function () {
         // Obniżenie wieży, żeby była wyśrodkowana
         scene.position.y = -12;
 
+        var zegar = new THREE.Clock();
+        var PREDKOSC = 0.15;   // radiany na sekundę: 0.15 to pełny obrót w ok. 42 s
+        var bezRuchu = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
         function animate() {
             requestAnimationFrame(animate);
+            if (!bezRuchu) tower.rotation.y = zegar.getElapsedTime() * PREDKOSC;
             renderer.render(scene, camera);
         }
         animate();
